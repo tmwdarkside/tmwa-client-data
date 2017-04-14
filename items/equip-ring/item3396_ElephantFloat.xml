@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+  <item id="3396"
+    image="equipment/charms/armor-chest-boia-elefantinho.png"
+    name="Elephant Float"
+    description="An elephant float."
+    effect="Def +2, M. Attack -2."
+    type="equip-ring"
+    weight="10">
+    <sprite gender="male">equipment/chest/boia-elefantinho-male.xml</sprite>
+    <sprite gender="female">equipment/chest/boia-elefantinho-female.xml</sprite>
+  </item>
+</items>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1749" name="Alizarin Ghost">
+ <sprite>monsters/monster-ghost.xml|#ff4515</sprite>
+ <sprite>equipment/chest/shorttanktop.xml|#bbbbbb</sprite>
+ <sprite>equipment/head/silkheadband.xml|#580000,A40000,C02020,ff6060</sprite>
+ <sprite>equipment/weapons/weapon-staff-red.xml</sprite>
+</monster>
+</monsters>

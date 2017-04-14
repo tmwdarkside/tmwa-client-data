@@ -242,4 +242,27 @@
   <include name="items/equip-torso/item5138_OrangeContributorShirt.xml"/>
   <include name="items/equip-torso/item5139_PurpleContributorShirt.xml"/>
   <include name="items/equip-torso/item5140_DarkGreenContributorShirt.xml"/>
+  <include name="items/equip-torso/item8000_BlackSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8001_BlueSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8002_RedSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8003_WhiteSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8029_RoyalSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8049_BlackMambaArmor.xml"/>
+  <include name="items/equip-torso/item8055_DarkBlueSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8056_YellowSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8057_GreenSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8058_DarkGreenSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8059_OrangeSaviorArmor.xml"/>
+  <include name="items/equip-torso/item8060_PinkSaviorArmor.xml"/> 
+  <include name="items/equip-torso/item8161_WhiteAssassinShirt.xml"/>
+  <include name="items/equip-torso/item8164_GreenAssassinShirt.xml"/>
+  <include name="items/equip-torso/item8167_DarkGreenAssassinShirt.xml"/>
+  <include name="items/equip-torso/item8170_OrangeAssassinShirt.xml"/>
+  <include name="items/equip-torso/item8173_PurpleAssassinShirt.xml"/>
+  <include name="items/equip-torso/item8179_PinkAssassinShirt.xml"/>
+  <include name="items/equip-torso/item8182_LightBlueAssassinShirt.xml"/>
+  <include name="items/equip-torso/item8185_DarkBlueAssassinShirt.xml"/>
+  <include name="items/equip-torso/item8188_YellowAssassinShirt.xml"/>
+  <include name="items/equip-torso/item3333_ArmorKnightDemonic.xml"/>
+  <include name="items/equip-torso/item3328_ArmorKnightDark.xml"/>
 </items>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1760" name="Angel Male">
+ <sprite>model/base.xml</sprite><!-- angel male-->
+ <sprite>equipment/chest/robe.xml</sprite>
+ <sprite>hairstyles/hairstyle08.xml</sprite>
+<sprite>equipment/wings/angelwings.xml</sprite>
+<sprite>equipment/head/head-aureola-barba.xml</sprite>
+</monster>
+</monsters>

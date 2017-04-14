@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+    <item id="8035"
+        image="equipment/wings/butterflywings.png"
+        name="Butterfly Wings"
+        description="Wings of A butterfly."
+        effect="Attack +20, Def +20, Vit +40."
+        type="equip-ring"
+        weight="13"
+        max-per-slot="1"
+        sellProtected="true">
+        <sprite>equipment/wings/butterflywings.xml</sprite>
+    </item>
+</items>

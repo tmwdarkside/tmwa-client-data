@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1767" name="Black Wyvern">
+ <sprite>monsters/monster-wyvern6.xml</sprite>
+</monster>
+</monsters>

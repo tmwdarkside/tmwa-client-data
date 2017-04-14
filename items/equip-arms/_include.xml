@@ -24,4 +24,14 @@
   <include name="items/equip-arms/item2167_OrangeCottonGloves.xml"/>
   <include name="items/equip-arms/item2168_PurpleCottonGloves.xml"/>
   <include name="items/equip-arms/item2169_DarkGreenCottonGloves.xml"/>
+  <include name="items/equip-arms/item8051_BlackMambaGloves.xml"/>
+  <include name="items/equip-arms/item8163_WhiteAssassinGloves.xml"/>
+  <include name="items/equip-arms/item8166_GreenAssassinGloves.xml"/>
+  <include name="items/equip-arms/item8169_DarkGreenAssassinGloves.xml"/>
+  <include name="items/equip-arms/item8172_OrangeAssassinGloves.xml"/>
+  <include name="items/equip-arms/item8175_PurpleAssassinGloves.xml"/>
+  <include name="items/equip-arms/item8178_YellowAssassinGloves.xml"/>
+  <include name="items/equip-arms/item8181_PinkAssassinGloves.xml"/>
+  <include name="items/equip-arms/item8184_LightBlueAssassinGloves.xml"/>
+  <include name="items/equip-arms/item8187_DarkBlueAssassinGloves.xml"/>
 </items>

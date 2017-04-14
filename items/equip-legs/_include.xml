@@ -57,4 +57,15 @@
   <include name="items/equip-legs/item2187_OrangeCottonTrousers.xml"/>
   <include name="items/equip-legs/item2188_PurpleCottonTrousers.xml"/>
   <include name="items/equip-legs/item2189_DarkGreenCottonTrousers.xml"/>
+  <include name="items/equip-legs/item8004_SaviorPants.xml"/>
+  <include name="items/equip-legs/item8053_BlackMambaPants.xml"/>
+  <include name="items/equip-legs/item8162_WhiteAssassinPants.xml"/>
+  <include name="items/equip-legs/item8165_GreenAssassinPants.xml"/>
+  <include name="items/equip-legs/item8168_DarkGreenAssassinPants.xml"/>
+  <include name="items/equip-legs/item8171_OrangeAssassinPants.xml"/>
+  <include name="items/equip-legs/item8174_PurpleAssassinPants.xml"/>
+  <include name="items/equip-legs/item8177_YellowAssassinPants.xml"/>
+  <include name="items/equip-legs/item8180_PinkAssassinPants.xml"/>
+  <include name="items/equip-legs/item8183_LightBlueAssassinPants.xml"/>
+  <include name="items/equip-legs/item8186_DarkBlueAssassinPants.xml"/>
 </items>

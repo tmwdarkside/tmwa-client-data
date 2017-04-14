@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+    <item id="8058"
+        image="equipment/chest/savior-armor.png|W:#104010,208020,30c030"
+        name="Dark Green Savior Armor"
+        description="Dark Green Savior Armor."
+        effect="Heal +120, Def +40, Dex +50, M. Attack -170."
+        type="equip-torso"
+        drawAfter="gloves"
+        weight="2600"
+        sellProtected="true">
+        <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#104010,208020,30c030</sprite>
+        <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#104010,208020,30c030</sprite>
+    </item>
+</items>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+    <item id="8004"
+        image="equipment/legs/saviorpants.png"
+        name="Savior Pants"
+        description="A Pair of matching pants for your cape."
+        effect="M. Attack -12"
+        type="equip-legs"
+        defense="10"
+        weight="60"
+        sellProtected="true">
+        <sprite gender="male">equipment/legs/saviorpants-male.xml</sprite>
+        <sprite gender="female">equipment/legs/saviorpants-male.xml</sprite>
+    </item>
+</items>

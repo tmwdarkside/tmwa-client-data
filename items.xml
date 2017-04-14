@@ -5,6 +5,7 @@
   <include name="items/misc/_include.xml"/>
   <include name="items/usable/_include.xml"/>
   <include name="items/generic/_include.xml"/>
+  <include name="items/pets/_include.xml"/>
   <include name="items/equip-head/_include.xml"/>
   <include name="items/equip-1hand/_include.xml"/>
   <include name="items/equip-torso/_include.xml"/>
@@ -17,3 +18,6 @@
   <include name="items/equip-charm/_include.xml"/>
   <include name="items/equip-ring/_include.xml"/>
 </items>
+
+
+

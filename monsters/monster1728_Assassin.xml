@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1728" name="Assassin">
+ <sprite>monsters/monster-assassin.xml</sprite>
+</monster>
+</monsters>

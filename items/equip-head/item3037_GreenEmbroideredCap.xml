@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+  <item id="3037"
+    image="equipment/head/armor-head-bordado-l.png"
+    name="Green Embroidered Cap"
+    description="A green cap embroidered with the letter L"
+    effect="Heal +100, Def +36, M. Bonus -36, Dex +5."
+    type="equip-head"
+    weight="90">
+    <sprite>equipment/head/head-bordado-l.xml</sprite>
+  </item>
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="606">
+    <sprite>model/female.xml</sprite>
+    <sprite>hairstyles/hairstyle10-female.xml</sprite>
+    <sprite>equipment/feet/boots.xml|#966200,734a00</sprite>
+    <sprite>equipment/legs/pants.xml|#966200,734a00</sprite>
+    <sprite>equipment/chest/cotton-female.xml|#966200,734a00</sprite>
+    <sprite>equipment/weapons/weapon-foice-morte.xml</sprite>
+  </npc>
+</npcs>

@@ -23,4 +23,6 @@
   <include name="items/equip-feet/item2157_OrangeCottonBoots.xml"/>
   <include name="items/equip-feet/item2158_PurpleCottonBoots.xml"/>
   <include name="items/equip-feet/item2159_DarkGreenCottonBoots.xml"/>
+  <include name="items/equip-feet/item2159_DarkGreenCottonBoots.xml"/>
+  <include name="items/equip-feet/item8050_BlackMambaBoots.xml"/>
 </items>

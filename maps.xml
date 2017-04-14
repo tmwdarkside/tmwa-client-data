@@ -72,6 +72,87 @@
   <map name="057-1.tmx">
     <atlas name="woodland"/>
   </map>
+  <!-- Mele Island-->
+  <map name="060-1.tmx">
+    <atlas name="mele"/>
+  </map>
+  <!-- Pretty Island-->
+  <map name="062-1.tmx">
+    <atlas name="pretty"/>
+  </map>
+  <!-- Kingdom Island-->
+  <map name="064-1.tmx">
+    <atlas name="kingdom"/>
+  </map>
+  <!-- No Name Island-->
+  <map name="065-1.tmx">
+    <atlas name="noname"/>
+  </map>
+  <!-- Lost Island-->
+  <map name="066-1.tmx">
+    <atlas name="lost"/>
+  </map>
+  <!-- Dark Woodland -->
+  <map name="1007-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1008-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1009-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1010-1.tmx">
+    <atlas name="woodland"/>
+  </map>
+  <map name="1011-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1012-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1013-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1014-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1015-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1016-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1017-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1018-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1025-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1026-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1027-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1028-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1029-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1052-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1055-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
+  <map name="1057-1.tmx">
+    <atlas name="darkwoodland"/>
+  </map>
   <!-- Snow -->
   <map name="019-1.tmx">
     <atlas name="snow"/>
@@ -121,13 +202,6 @@
   <map name="006-2.tmx">
     <atlas name="interiordesert"/>
   </map>
-  <!-- Woodland Interiors -->
-  <!-- map name="007-2.tmx">
-    <atlas name="interiorwoodland"/>
-  </map -->
-  <!-- map name="008-2.tmx">
-    <atlas name="interiorwoodland"/>
-  </map -->
   <map name="009-2.tmx">
     <atlas name="interiorwoodland"/>
   </map>
@@ -357,6 +431,22 @@
   <map name="027-8.tmx">
     <atlas name="crypt"/>
   </map>
+  <!-- Mele Island Cave -->
+  <map name="060-2.tmx">
+    <atlas name="interiormele"/>
+  </map>
+  <!-- Kingdom Island Cave -->
+  <map name="064-2.tmx">
+    <atlas name="interiorkingdom"/>
+  </map>
+  <!-- No Name Island Cave -->
+  <map name="065-2.tmx">
+    <atlas name="interiornoname"/>
+  </map>
+  <!-- Lost Island Cave-->
+  <map name="066-2.tmx">
+    <atlas name="interiorlost"/>
+  </map>
   <!-- Atlas All -->
   <atlas name="all">
     <file name="graphics/particles/aniblaze-medium.png|W:#746767"/>
@@ -408,6 +498,33 @@
   <!-- Woodland Atlas -->
   <atlas name="woodland">
     <file name="graphics/images/ambient/clouds.png"/>
+    <file name="graphics/images/ambient/fog.png"/>
+    <file name="graphics/tiles/forest_cover.png"/>
+    <file name="graphics/tiles/forest.png"/>
+    <file name="graphics/tiles/mushrooms.png"/>
+    <file name="graphics/tiles/power_circle_x2.png"/>
+    <file name="graphics/tiles/soulmenhirs_x2.png"/>
+    <file name="graphics/tiles/woodenpump.png"/>
+    <file name="graphics/tiles/woodland_graveyard_crypt.png"/>
+    <file name="graphics/tiles/woodland_graveyard_ground.png"/>
+    <file name="graphics/tiles/woodland_graveyard_x3.png"/>
+    <file name="graphics/tiles/woodland_graveyard_x4.png"/>
+    <file name="graphics/tiles/woodland_ground.png"/>
+    <file name="graphics/tiles/woodland_indoor.png"/>
+    <file name="graphics/tiles/woodland_swamp.png"/>
+    <file name="graphics/tiles/woodland_village.png"/>
+    <file name="graphics/tiles/woodland_village_x2.png"/>
+    <file name="graphics/tiles/woodland_village_x3.png"/>
+    <file name="graphics/tiles/woodland_water.png"/>
+    <file name="graphics/tiles/woodland_x2.png"/>
+    <file name="graphics/tiles/woodland_x3.png"/>
+    <file name="graphics/tiles/woodland_x4.png"/>
+    <file name="graphics/tiles/woodland_x5.png"/>
+    <file name="graphics/tiles/woodland_x8.png"/>
+  </atlas>
+  <!-- Dark Woodland Atlas -->
+  <atlas name="darkwoodland">
+    <file name="graphics/images/ambient/lightnight.png"/>
     <file name="graphics/images/ambient/fog.png"/>
     <file name="graphics/tiles/forest_cover.png"/>
     <file name="graphics/tiles/forest.png"/>
@@ -566,5 +683,86 @@
     <file name="graphics/tiles/woodland_indoor_x3.png"/>
     <file name="graphics/tiles/woodland_village.png"/>
     <file name="graphics/tiles/woodland_village_x2.png"/>
+  </atlas>
+  <!-- lostisland -->
+  <atlas name="lost">
+    <file name="graphics/tiles/woodland_ground.png"/>
+    <file name="graphics/tiles/trans_woodland-desert2.png"/>
+    <file name="graphics/tiles/woodland_x2.png"/>
+    <file name="graphics/tiles/woodland_x3.png"/>
+    <file name="graphics/tiles/woodland_x4.png"/>
+    <file name="graphics/tiles/woodland_x5.png"/>
+    <file name="graphics/tiles/woodland_x8.png"/>
+    <file name="graphics/tiles/woodland_village.png"/>
+    <file name="graphics/tiles/woodland_village_x2.png"/>
+    <file name="graphics/tiles/vigie.png"/>
+    <file name="graphics/tiles/warp_gates.png"/>
+  </atlas>
+  <!-- nonameisland -->
+  <atlas name="noname">
+    <file name="graphics/tiles/forest.png"/>
+    <file name="graphics/tiles/desert1.png"/>
+    <file name="graphics/tiles/desert2.png"/>
+    <file name="graphics/tiles/desert_x2.png"/>
+    <file name="graphics/tiles/desert_x5.png"/>
+    <file name="graphics/tiles/woodland_ground.png"/>
+    <file name="graphics/tiles/vigie.png"/>
+    <file name="graphics/tiles/trans_woodland_desert.png"/>
+    <file name="graphics/tiles/warp_gates.png"/>
+  </atlas>
+  <!-- prettyisland -->
+  <atlas name="pretty">
+    <file name="graphics/tiles/snow.png"/>
+    <file name="graphics/tiles/woodland_ground.png"/>
+    <file name="graphics/tiles/forest.png"/>
+    <file name="graphics/tiles/woodland_swamp.png"/>
+    <file name="graphics/tiles/woodland_x8.png"/>
+    <file name="graphics/tiles/woodland_x3.png"/>
+    <file name="graphics/tiles/woodland_x4.png"/>
+    <file name="graphics/tiles/snowtrees.png"/>
+    <file name="graphics/tiles/mushrooms.png"/>
+    <file name="graphics/tiles/warp_gates.png"/>
+  </atlas>
+  <!-- meleisland -->
+  <atlas name="mele">
+    <file name="graphics/tiles/trans_woodland_desert.png"/>
+    <file name="graphics/tiles/woodland_ground.png"/>
+    <file name="graphics/tiles/woodland_x3.png"/>
+    <file name="graphics/tiles/warp_gates.png"/>
+  </atlas>
+  <!-- kingdom -->
+  <atlas name="kingdom">
+    <file name="graphics/tiles/snow.png"/>
+    <file name="graphics/tiles/concrete_walls-0113.png"/>
+    <file name="graphics/tiles/forest.png"/>
+    <file name="graphics/tiles/woodland_ground.png"/>
+    <file name="graphics/tiles/blockWalls.png"/>
+    <file name="graphics/tiles/woodland_x3.png"/>
+    <file name="graphics/tiles/snow_village2.png"/>
+    <file name="graphics/tiles/woodland_x8.png"/>
+    <file name="graphics/tiles/woodland_x4.png"/>
+    <file name="graphics/tiles/woodland_x5.png"/>
+    <file name="graphics/tiles/woodland_x2.png"/>
+    <file name="graphics/tiles/mushrooms.png"/>
+    <file name="graphics/tiles/warp_gates.png"/>
+  </atlas>
+  <atlas name="interiormele">
+    <file name="graphics/tiles/cave.png"/>
+    <file name="graphics/tiles/cave_x2.png"/>
+  </atlas>
+  <atlas name="interiorkingdom">
+    <file name="graphics/tiles/cave2_bilevel.png"/>
+    <file name="graphics/tiles/cave2_bilevel_water_lava.png"/>
+    <file name="graphics/tiles/cave2_x2.png"/>
+  </atlas>
+  <atlas name="interiorlost">
+    <file name="graphics/tiles/woodland_indoor.png"/>
+    <file name="graphics/tiles/woodland_indoor_backup.png"/>
+    <file name="graphics/tiles/woodland_indoor_x2.png"/>
+    <file name="graphics/tiles/woodland_indoor_x3.png"/>
+  </atlas>
+  <atlas name="interiornoname">
+    <file name="graphics/tiles/woodland_ground.png"/>
+    <file name="graphics/tiles/cave.png"/>
   </atlas>
 </maps>

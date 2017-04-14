@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+    <item id="3302"
+        image="equipment/wings/angel-wings.png|W:#202020,404040,606060"
+        name="Dark Angel Wings"
+        description="A pair of wings that belonged to a Dark Angel which has lost the flying skill."
+        effect="Def +20, Int +40, M. Attack +20."
+        type="equip-ring"
+        drawAfter="gloves"
+        weight="13"
+        max-per-slot="1"
+        sellProtected="true">
+        <sprite>equipment/wings/angel-wings.xml|#202020,404040,606060</sprite>
+    </item>
+</items>

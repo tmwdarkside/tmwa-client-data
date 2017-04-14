@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1738" name="Kage">
+ <sprite>model/base.xml</sprite>
+ <sprite>hairstyles/hairstyle03.xml|#ff2244,ff0000</sprite>
+ <sprite>equipment/head/demonmask.xml</sprite>
+ <sprite gender="male">equipment/feet/boots.xml|#505050</sprite>
+ <sprite gender="male">equipment/chest/robe.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+ <sprite gender="male">equipment/hands/generic.xml|#202020,505050</sprite>
+</monster>
+</monsters>

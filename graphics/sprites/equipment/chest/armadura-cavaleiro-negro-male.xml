@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<sprite variants="135" variant_offset="1">
+  <imageset name="base" src="graphics/sprites/equipment/chest/armadura-cavaleiro-negro-male.png" width="30" height="45"/>
+  <include file="model/base.xml"/>
+</sprite>

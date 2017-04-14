@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+  <item id="3398"
+    image="equipment/charms/armor-chest-boia-rinoceronte.png"
+    name="Rhino Float"
+    description="A rinho float."
+    effect="Def +2, M. Attack -2."
+    type="equip-ring"
+    weight="10">
+    <sprite gender="male">equipment/chest/boia-rinoceronte-male.xml</sprite>
+    <sprite gender="female">equipment/chest/boia-rinoceronte-female.xml</sprite>
+  </item>
+</items>

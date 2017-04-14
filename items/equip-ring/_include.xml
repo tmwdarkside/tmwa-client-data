@@ -14,4 +14,22 @@
   <include name="items/equip-ring/item4012_TopazRing.xml"/>
   <include name="items/equip-ring/item4013_AmethystRing.xml"/>
   <include name="items/equip-ring/item4014_SimpleRing.xml"/>
+  <include name="items/equip-ring/item3301_BlueAngelWings.xml"/>
+  <include name="items/equip-ring/item3302_DarkAngelWings.xml"/>
+  <include name="items/equip-ring/item8032_AngelWings.xml"/>
+  <include name="items/equip-ring/item8033_DaemonWings.xml"/>
+  <include name="items/equip-ring/item8034_DragonflyWings.xml"/>
+  <include name="items/equip-ring/item8035_ButterflyWings.xml"/>
+  <include name="items/equip-ring/item8036_Hound.xml"/>
+  <include name="items/equip-ring/item8037_GreenFairy.xml"/>
+  <include name="items/equip-ring/item8038_RedFairy.xml"/>
+  <include name="items/equip-ring/item8039_BlueFairy.xml"/>
+  <include name="items/equip-ring/item8040_Cat.xml"/>
+  <include name="items/equip-ring/item8041_Rat.xml"/>
+  <include name="items/equip-ring/item8042_BlackCat.xml"/>
+  <include name="items/equip-ring/item3390_ImperialBlanket.xml"/>
+  <include name="items/equip-ring/item3395_DuckFloat.xml"/>
+  <include name="items/equip-ring/item3396_ElephantFloat.xml"/>
+  <include name="items/equip-ring/item3397_SnakeFloat.xml"/>
+  <include name="items/equip-ring/item3398_RhinoFloat.xml"/>
 </items>

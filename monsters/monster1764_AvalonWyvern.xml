@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1764" name="Avalon Wyvern">
+ <sprite>monsters/monster-wyvern3.xml</sprite>
+</monster>
+</monsters>

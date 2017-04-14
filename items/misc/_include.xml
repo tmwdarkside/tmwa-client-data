@@ -12,4 +12,11 @@
   <include name="items/misc/item33_.xml"/>
   <include name="items/misc/item34_.xml"/>
   <include name="items/misc/item35_.xml"/>
+  <include name="items/misc/item40_.xml"/>
+  <include name="items/misc/item41_.xml"/>
+  <include name="items/misc/item42_.xml"/>
+  <include name="items/misc/item43_.xml"/>
+  <include name="items/misc/item44_.xml"/>
+  <include name="items/misc/item45_.xml"/>
+  <include name="items/misc/item46_.xml"/>
 </items>

@@ -11,13 +11,23 @@
   <include name="items/equip-2hand/item548_Halberd.xml"/>
   <include name="items/equip-2hand/item588_BastardSword.xml"/>
   <include name="items/equip-2hand/item594_Spear.xml"/>
-  <include name="items/equip-2hand/item595_HeavySpear.xml"/>
-  <include name="items/equip-2hand/item596_Pike.xml"/>
-  <include name="items/equip-2hand/item597_HeavyPike.xml"/>
+<!--   <include name="items/equip-2hand/item595_HeavySpear.xml"/> -->
+<!--   <include name="items/equip-2hand/item596_Pike.xml"/> -->
+<!--   <include name="items/equip-2hand/item597_HeavyPike.xml"/> -->
   <include name="items/equip-2hand/item623_Scythe.xml"/>
   <include name="items/equip-2hand/item758_WoodenStaff.xml"/>
   <include name="items/equip-2hand/item878_BansheeBow.xml"/>
   <include name="items/equip-2hand/item903_SlingShot.xml"/>
   <include name="items/equip-2hand/item906_KidBook.xml"/>
   <include name="items/equip-2hand/item1200_Bow.xml"/>
+  <include name="items/equip-2hand/item8077_MiereAxe.xml"/>
+  <include name="items/equip-2hand/item8021_Kanabo.xml"/>
+  <include name="items/equip-2hand/item3426_WhiteLaserStaff.xml"/>
+  <include name="items/equip-2hand/item3427_YellowLaserStaff.xml"/>
+  <include name="items/equip-2hand/item3428_GreenLaserStaff.xml"/>
+  <include name="items/equip-2hand/item3429_BlueLaserStaff.xml"/>
+  <include name="items/equip-2hand/item3430_RedLaserStaff.xml"/>
+  <include name="items/equip-2hand/item3431_PurpleLaserStaff.xml"/>
+  <include name="items/equip-2hand/item3432_BlackLaserStaff.xml"/>
+  <include name="items/equip-2hand/item3499_DeathScythe.xml"/>
 </items>

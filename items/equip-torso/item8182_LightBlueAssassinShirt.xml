@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+    <item id="8182"
+        image="equipment/chest/assassintop.png|R:#16486e,498ec5,e4f2fc"
+        name="Light Blue Assassin Shirt"
+        description="Light Blue shirt for a master assassin."
+        effect="Def +10, Agi +10, M. Attack -5."
+        type="equip-torso"
+        weight="150"
+        max-per-slot="1">
+        <sprite gender="male">equipment/chest/assassin.xml|#16486e,498ec5,e4f2fc</sprite>
+        <sprite gender="female">equipment/chest/assassin-female.xml|#16486e,498ec5,e4f2fc</sprite>
+    </item>
+</items>

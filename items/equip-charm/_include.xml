@@ -16,5 +16,7 @@
   <include name="items/equip-charm/item865_Grimoire.xml"/>
   <include name="items/equip-charm/item879_HeartofIsis.xml"/>
   <include name="items/equip-charm/item1197_JacksSkeletonCharm.xml"/>
-  <include name="items/equip-charm/item1227_EnchantersAmulet.xml"/>
+<!-- <include name="items/equip-charm/item1227_EnchantersAmulet.xml"/> -->
+  <include name="items/equip-charm/item8062_MechaMedallion.xml"/>
+  <include name="items/equip-charm/item8063_ThetaBook.xml"/>
 </items>

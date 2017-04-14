@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+  <item id="3336"
+    image="equipment/head/armor-head-capacete-cavaleiro-demoniaco.png"
+    name="Knight Helmet Demonic"
+    description="A knight helmet demonic."
+    effect="Heal +120, Def +45, M. Def +25, Str +10, M. Attack -30."
+    type="equip-head"
+    weight="800">
+    <sprite gender="male">equipment/head/capacete-cavaleiro-demoniaco-male.xml</sprite>
+    <sprite gender="female">equipment/head/capacete-cavaleiro-demoniaco-female.xml</sprite>
+  </item>
+</items>

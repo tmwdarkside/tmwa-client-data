@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1727" name="Generous Spiky">
+ <sprite>monsters/monster-mushroom-spiky2.xml</sprite>
+ <sound event="hit">monsters/shroom/shroom-hit1.ogg</sound>
+</monster>
+</monsters>
