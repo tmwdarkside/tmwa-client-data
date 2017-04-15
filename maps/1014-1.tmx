@@ -523,12 +523,12 @@
     <property name="dest_tile_y" value="61"/>
    </properties>
   </object>
-  <object name="Luvia" type="spawn" x="1640" y="2112" width="280" height="272">
+  <object name="Bastax" type="spawn" x="1640" y="2112" width="280" height="272">
    <properties>
     <property name="eA_death" value="180000"/>
     <property name="eA_spawn" value="90000"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1102"/>
+    <property name="monster_id" value="1798"/>
    </properties>
   </object>
  </objectgroup>

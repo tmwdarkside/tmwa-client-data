@@ -10,10 +10,9 @@
         image="equipment/legs/assassinpants.png|R:#80280f,b04810,ef681f,ffb830"
         name="Orange Assassin Pants"
         description="Orange pants for a master assassin."
-        effect="+5% Defense"
-        type="equip-leds"
-        weight="10"
-        defense="5"
+        effect="+5% Defense, M. Attack -5, Agi +8."
+        type="equip-legs"
+        weight="20"
         max-per-slot="1">
         <sprite gender="male">equipment/legs/assassin.xml|#80280f,b04810,ef681f,ffb830</sprite>
         <sprite gender="female">equipment/legs/assassin-female.xml|#80280f,b04810,ef681f,ffb830</sprite>

@@ -469,6 +469,16 @@
     <file name="graphics/particles/orb-small.png|W:#00ffff"/>
     <file name="graphics/particles/sparkle.png|W:#99ff66"/>
     <file name="graphics/particles/casket-trap_96x96.png"/>
+    <file name="graphics/tiles/woodland_ground.png"/>
+    <file name="graphics/tiles/woodland_village.png"/>
+    <file name="graphics/tiles/woodland_x8.png"/>
+    <file name="graphics/tiles/woodland_indoor.png"/>
+    <file name="graphics/tiles/warp_gates.png"/>
+    <file name="graphics/tiles/trans_woodland_desert.png"/>
+    <file name="graphics/tiles/docks.png"/>
+    <file name="graphics/tiles/docks_x2.png"/>
+    <file name="graphics/tiles/collision.png"/>
+    <file name="graphics/tiles/desert_x5.png"/>
   </atlas>
   <!-- Desert Atlas -->
   <atlas name="desert">
@@ -494,6 +504,7 @@
     <file name="graphics/tiles/waterflow.png"/>
     <file name="graphics/tiles/water_overflow.png"/>
     <file name="graphics/tiles/water.png"/>
+    <file name="graphics/tiles/woodland_village.png"/>
   </atlas>
   <!-- Woodland Atlas -->
   <atlas name="woodland">

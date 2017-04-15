@@ -464,8 +464,8 @@
  <objectgroup name="Capa de Objetos 1">
   <object name="RedDragon" type="spawn" x="1393" y="1086" width="262" height="195">
    <properties>
-    <property name="eA_death" value="900000"/>
-    <property name="eA_spawn" value="3000"/>
+    <property name="eA_death" value="90000"/>
+    <property name="eA_spawn" value="300"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1722"/>
    </properties>
