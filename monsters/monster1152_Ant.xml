@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1152" name="Ant">
+ <sprite>monsters/monster-arachnide.xml|#aa2222</sprite>
+</monster>
+</monsters>

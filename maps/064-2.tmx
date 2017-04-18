@@ -909,7 +909,7 @@
     <property name="eA_death" value="50000"/>
     <property name="eA_spawn" value="100000"/>
     <property name="max_beings" value="2"/>
-    <property name="monster_id" value="1723"/>
+    <property name="monster_id" value="1141"/>
    </properties>
   </object>
   <object name="RedDragon" type="spawn" x="1992" y="464" width="416" height="296">
@@ -917,7 +917,7 @@
     <property name="eA_death" value="50000"/>
     <property name="eA_spawn" value="100000"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1722"/>
+    <property name="monster_id" value="1140"/>
    </properties>
   </object>
   <object name="LavaSlime" type="spawn" x="2816" y="4328" width="32" height="72">

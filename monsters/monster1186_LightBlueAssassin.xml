@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1186" name="Light Blue Assassin">
+ <sprite>monsters/monster-assassin.xml|#A9F5F2</sprite>
+</monster>
+</monsters>

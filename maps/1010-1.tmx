@@ -758,7 +758,7 @@
 2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 </data>
  </layer>
- <objectgroup name="Objects" visible="0">
+ <objectgroup name="Objects">
   <object name="To Dark Woodland" type="warp" x="1536" y="768" width="64" height="32">
    <properties>
     <property name="dest_map" value="1011-1"/>
@@ -771,7 +771,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="5"/>
-    <property name="monster_id" value="1719"/>
+    <property name="monster_id" value="1137"/>
    </properties>
   </object>
   <object name="Moonshroom" type="spawn" x="1088" y="1984" width="1024" height="640">
@@ -808,7 +808,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="4"/>
-    <property name="monster_id" value="1718"/>
+    <property name="monster_id" value="1136"/>
    </properties>
   </object>
   <object name="Larvern" type="spawn" x="0" y="0">

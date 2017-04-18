@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1171" name="Ice Lizard">
+ <sprite>monsters/monster-lizard.xml|#221dea,275ded,54bdf2,ffffff</sprite>
+</monster>
+</monsters>

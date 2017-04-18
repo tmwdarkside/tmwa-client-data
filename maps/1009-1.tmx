@@ -692,7 +692,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="2"/>
-    <property name="monster_id" value="1718"/>
+    <property name="monster_id" value="1136"/>
    </properties>
   </object>
   <object name="ViciousSquirrel" type="spawn" x="2592" y="1568" width="512" height="160">

@@ -1383,7 +1383,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
     <property name="max_beings" value="3"/>
-    <property name="monster_id" value="1761"/>
+    <property name="monster_id" value="1181"/>
    </properties>
   </object>
   <object name="RedFairy" type="spawn" x="0" y="0">
@@ -1391,7 +1391,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
     <property name="max_beings" value="3"/>
-    <property name="monster_id" value="1740"/>
+    <property name="monster_id" value="1159"/>
    </properties>
   </object>
   <object name="BlueFairy" type="spawn" x="0" y="0">
@@ -1399,7 +1399,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
     <property name="max_beings" value="3"/>
-    <property name="monster_id" value="1739"/>
+    <property name="monster_id" value="1158"/>
    </properties>
   </object>
   <object name="Tritan" type="spawn" x="0" y="0">
@@ -1407,7 +1407,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
     <property name="max_beings" value="3"/>
-    <property name="monster_id" value="1756"/>
+    <property name="monster_id" value="1173"/>
    </properties>
   </object>
   <object name="GenerousSpiky" type="spawn" x="0" y="0">
@@ -1415,7 +1415,7 @@
     <property name="eA_death" value="120000"/>
     <property name="eA_spawn" value="1"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1727"/>
+    <property name="monster_id" value="1143"/>
    </properties>
   </object>
  </objectgroup>

@@ -69,7 +69,7 @@
    <properties>
     <property name="eA_spawn" value="2000"/>
     <property name="max_beings" value="4"/>
-    <property name="monster_id" value="1718"/>
+    <property name="monster_id" value="1136"/>
    </properties>
   </object>
   <object name="ManaBug" type="spawn" x="0" y="0">
@@ -125,7 +125,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
     <property name="max_beings" value="5"/>
-    <property name="monster_id" value="1793"/>
+    <property name="monster_id" value="1180"/>
    </properties>
   </object>
   <object name="UkarWarrior" type="spawn" x="0" y="0">
@@ -133,7 +133,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="1"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1759"/>
+    <property name="monster_id" value="1176"/>
    </properties>
   </object>
  </objectgroup>

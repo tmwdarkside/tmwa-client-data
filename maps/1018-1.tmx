@@ -766,7 +766,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="5"/>
-    <property name="monster_id" value="1719"/>
+    <property name="monster_id" value="1137"/>
    </properties>
   </object>
   <object name="ManaGhost" type="spawn" x="2624" y="2400" width="1728" height="832">
@@ -790,7 +790,7 @@
     <property name="eA_death" value="19000"/>
     <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="2"/>
-    <property name="monster_id" value="1718"/>
+    <property name="monster_id" value="1136"/>
    </properties>
   </object>
   <object name="FeyElement" type="spawn" x="2464" y="1888" width="128" height="64">

@@ -915,7 +915,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="9000"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1718"/>
+    <property name="monster_id" value="1136"/>
    </properties>
   </object>
   <object name="To Dark Woods" type="warp" x="2368" y="640" width="64" height="32">

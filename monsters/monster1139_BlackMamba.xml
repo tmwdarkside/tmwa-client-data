@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+ <monster id="1139" name="Black Mamba">
+   <sprite>monsters/snake.xml|#151515,505050,e02020;#a01010;#ffffff</sprite>
+ </monster>
+</monsters>

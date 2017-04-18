@@ -403,7 +403,7 @@
     <property name="eA_death" value="90000"/>
     <property name="eA_spawn" value="300"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1722"/>
+    <property name="monster_id" value="1140"/>
    </properties>
   </object>
   <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="192" y="1184" width="32" height="32"/>

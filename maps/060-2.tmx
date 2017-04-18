@@ -280,7 +280,7 @@
     <property name="eA_death" value="3600000"/>
     <property name="eA_spawn" value="1"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1736"/>
+    <property name="monster_id" value="1153"/>
    </properties>
   </object>
  </objectgroup>

@@ -182,7 +182,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
     <property name="max_beings" value="5"/>
-    <property name="monster_id" value="1757"/>
+    <property name="monster_id" value="1174"/>
    </properties>
   </object>
   <object name="Ukar" type="spawn" x="0" y="0">
@@ -190,7 +190,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
     <property name="max_beings" value="5"/>
-    <property name="monster_id" value="1758"/>
+    <property name="monster_id" value="1175"/>
    </properties>
   </object>
   <object name="AngelMale" type="spawn" x="0" y="0">
@@ -198,7 +198,7 @@
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
     <property name="max_beings" value="5"/>
-    <property name="monster_id" value="1760"/>
+    <property name="monster_id" value="1179"/>
    </properties>
   </object>
  </objectgroup>

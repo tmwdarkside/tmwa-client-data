@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1165" name="White Ghost">
+ <sprite>monsters/monster-ghost.xml</sprite>
+ <sprite>equipment/chest/robe.xml|#111111,222222,333333,444444,555555</sprite>
+ <sprite>equipment/head/silkheadband.xml</sprite>
+ <sprite>equipment/weapons/weapon-staff-white.xml</sprite>
+</monster>
+</monsters>

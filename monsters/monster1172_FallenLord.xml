@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1172" name="Fallen Lord">
+ <sprite>monsters/skeleton.xml|#ffe8bf</sprite>
+ <sprite>equipment/legs/chaps.xml</sprite>
+ <sprite>equipment/chest/warlordplate.xml|#573f10,9c8226,d3c04b,ffffff</sprite>
+ <sprite>equipment/head/warlordhelm.xml</sprite>
+</monster>
+</monsters>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1164" name="Red Golem">
+ <sprite>monsters/monster-golem.xml|#ff4515</sprite>
+ <sprite>equipment/chest/assassin.xml|#aa2505</sprite>//-->
+ <sprite>equipment/legs/black-mamba-pants.xml</sprite>
+ <sprite>equipment/weapons/weapon-staff-red.xml</sprite>
+</monster>
+</monsters>

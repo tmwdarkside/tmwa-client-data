@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1162" name="Golden Golem">
+ <sprite>monsters/monster-golem.xml|#573f10,ffdd22</sprite>
+ <sprite>equipment/head/paladinhelm.xml</sprite>
+ <sprite>equipment/legs/black-mamba-pants.xml</sprite>
+</monster>
+</monsters>

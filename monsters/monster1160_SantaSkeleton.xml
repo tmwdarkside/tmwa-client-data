@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1160" name="Santa Skeleton">
+ <sprite>monsters/monster-skeleton.xml|#dddddd,aaaaaa</sprite>
+ <sprite>equipment/legs/shorts.xml|#dd0000,aa0000</sprite>
+ <sprite>equipment/chest/cotton.xml|#dd0000,aa0000</sprite>
+ <sprite>equipment/feet/boots.xml|#550000,880000,aa0000,cc0000</sprite>
+ <sprite>equipment/head/santabeardhat.xml</sprite>
+</monster>
+</monsters>

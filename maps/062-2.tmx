@@ -795,7 +795,7 @@
     <property name="eA_death" value="50000"/>
     <property name="eA_spawn" value="100000"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1799"/>
+    <property name="monster_id" value="1200"/>
    </properties>
   </object>
   <object name="CrotcherScorpion" type="spawn" x="0" y="0">
