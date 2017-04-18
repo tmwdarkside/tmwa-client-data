@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1731" name="Ice Snake">
- <sprite>monsters/snake.xml|#ccddff,ddefff,99a9db,ccadff</sprite>
-</monster>
-</monsters>

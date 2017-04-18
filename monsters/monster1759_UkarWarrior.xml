@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
- <monster id="1759" name="Ukar Warrior">
- <sprite>model/base.xml</sprite>
- <sprite>hairstyles/hairstyle15.xml|#53202b,7f4f45,9e6a43,d09459,fcd3a1,fefffc;#2f312f,727471,a4a6a3,dad5f5;#b04810</sprite>
- <sprite>equipment/chest/warlordplate.xml</sprite>
- <sprite>equipment/wings/angelwings.xml</sprite>
-</monster>
-</monsters>

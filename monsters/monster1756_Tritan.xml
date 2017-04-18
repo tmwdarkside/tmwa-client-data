@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1756" name="Tritan">
- <sprite>model/player-male-tritan-base.xml</sprite>
- <sprite>equipment/chest/cotton.xml</sprite>
- <sprite>equipment/legs/shorts.xml</sprite>
-</monster>
-</monsters>

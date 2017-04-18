@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1744" name="Dark Golem">
- <sprite>monsters/monster-golem.xml|#665555</sprite>
- <sprite>equipment/chest/robe.xml</sprite>
- <sprite>equipment/weapons/weapon-foice-morte.xml</sprite>
-</monster>
-</monsters>

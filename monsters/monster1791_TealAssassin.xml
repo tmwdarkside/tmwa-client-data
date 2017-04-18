@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1791" name="Teal Assassin">
- <sprite>monsters/monster-assassin.xml|#04B4AE</sprite>
-</monster>
-</monsters>

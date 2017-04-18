@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1752" name="White Scorpion">
- <sprite>monsters/monster-scorpion.xml|#444444,dddddd,cccccc,99a9db,ccadff</sprite>
- </monster>
-</monsters>

@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1761" name="Green Fairy">
- <sprite>monsters/monster-fairy-green.xml</sprite>
-</monster>
-</monsters>

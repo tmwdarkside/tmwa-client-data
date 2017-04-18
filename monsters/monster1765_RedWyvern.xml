@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1765" name="Red Wyvern">
- <sprite>monsters/monster-wyvern4.xml</sprite>
-</monster>
-</monsters>

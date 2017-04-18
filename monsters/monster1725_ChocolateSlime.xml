@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
- <monster id="1725" name="Chocolate Slime">
-    <sprite>monsters/slime.xml|#8a5825</sprite>
-    <sound event="hit">monsters/slime/slime-hit1.ogg</sound>
- </monster>
-</monsters>

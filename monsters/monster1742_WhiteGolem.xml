@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1742" name="White Golem">
- <sprite>monsters/monster-golem.xml</sprite>
- <sprite>equipment/chest/robe.xml|#333333,444444,555555,666666,777777</sprite>
- <sprite>equipment/weapons/weapon-staff-white.xml</sprite>
-</monster>
-</monsters>

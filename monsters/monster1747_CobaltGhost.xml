@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1747" name="Cobalt Ghost">
- <sprite>monsters/monster-ghost.xml|#0044ff</sprite>
- <sprite>equipment/chest/cotton.xml|#0044ff</sprite>
- <sprite>equipment/legs/shorts.xml|#444444</sprite>
- <sprite>equipment/weapons/weapon-staff-blue.xml</sprite>
-</monster>
-</monsters>

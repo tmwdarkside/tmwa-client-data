@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1748" name="Mauve Ghost">
- <sprite>monsters/monster-ghost.xml|#a030e0</sprite>
- <sprite>equipment/chest/cotton.xml|#a030e0</sprite>
- <sprite>equipment/legs/shorts.xml|#e050f0</sprite>
- <sprite>equipment/weapons/weapon-staff-purple.xml</sprite>
-</monster>
-</monsters>

@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1788" name="Orange Assassin">
- <sprite>monsters/monster-assassin.xml|#FFBF00</sprite>
-</monster>
-</monsters>

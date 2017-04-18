@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-  <monster id="1730" name="Fire Skull Lord">
- <sprite>monsters/monster-skull-firelord.xml</sprite>
-</monster>
-</monsters>

@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-  <monster id="1701" name="Dragon">
-    <sprite>monsters/dragon.xml|#72982c,ffffff</sprite>
-  </monster>
-</monsters>

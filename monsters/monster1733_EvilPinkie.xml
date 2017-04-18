@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1733" name="Evil Pinkie">
- <sprite>monsters/monster-evilpinkie.xml</sprite>
- <sound event="hit">monsters/scorpion/scorpion-hit1.ogg</sound>
-</monster>
-</monsters>

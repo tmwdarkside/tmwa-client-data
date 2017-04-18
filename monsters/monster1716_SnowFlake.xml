@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
- <monster id="1716" name="Snow Flake">
-    <sprite>monsters/monster-snowflake.xml</sprite>
- </monster>
-</monsters>

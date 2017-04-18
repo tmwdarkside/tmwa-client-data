@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1750" name="Gamboge Ghost">
- <sprite>monsters/monster-ghost.xml|#573f10,ffdd22</sprite>
- <sprite>equipment/chest/cotton.xml|#f73f10,eedd22</sprite>
- <sprite>equipment/legs/shorts.xml</sprite>
- <sprite>equipment/weapons/weapon-staff-yellow.xml</sprite>
-</monster>
-</monsters>

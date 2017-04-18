@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-<monster id="1786" name="Black Assassin">
- <sprite>monsters/monster-assassin.xml|#151515</sprite>
-</monster>
-</monsters>
