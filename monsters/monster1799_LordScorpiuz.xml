@@ -2,7 +2,7 @@
 <monsters offset="0">
 <monster id="1799" name="Lord Scorpiuz">
  <sprite>model/base.xml|#53202b,7f4f45,9e6a43,d09459,fcd3a1,fefffc;#2f312f,727471,a4a6a3,dad5f5;#b04810</sprite>
- <sprite>hairstyles/hairstyle01.xml|#53202b,7f4f45,9e6a43,d09459,fcd3a1,fefffc;#2f312f,727471,a4a6a3,dad5f5;#ff0000</sprite>
+ <sprite>hairstyles/hairstyle01.xml|#53202b,7f4f45,9e6a43,d09459,fcd3a1,fefffc;#2f312f,727471,a4a6a3,dad5f5;#000000</sprite>
  <sprite>equipment/head/thin-crown.xml|#343434,ababab;#003300,00FF00;#29758A,9BDBEC</sprite>
  <sprite>equipment/legs/terranite.xml</sprite>
  <sprite>equipment/hands/black-mamba-gloves.xml</sprite>
