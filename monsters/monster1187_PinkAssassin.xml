@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <monsters offset="0">
 <monster id="1187" name="Pink Assassin">
- <sprite>monsters/monster-assassin.xml|#F6CEF5</sprite>
+ <sprite>monsters/monster-assassin.xml</sprite>
+ <sprite>equipment/head/standardheadband.xml|#bf369b,f25cb1,ff87b7,ffcccf</sprite>
 </monster>
 </monsters>

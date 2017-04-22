@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<sprite>
+ <!-- avalon wyvern -->
+ <imageset name="base" src="graphics/sprites/monsters/monster-wyvern.png|R:#fde732;G:#dddddd" width="80" height="80" />
+ 
+ <include file="monsters/monster-wyvern.xml"/>
+ 
+</sprite>
+

@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <monsters offset="0">
 <monster id="1189" name="Orange Assassin">
- <sprite>monsters/monster-assassin.xml|#FFBF00</sprite>
+ <sprite>monsters/monster-assassin.xml</sprite>
+ <sprite>equipment/head/standardheadband.xml|#80280f,b04810,ef681f,ffb830</sprite>
 </monster>
 </monsters>

@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <monsters offset="0">
 <monster id="1192" name="Teal Assassin">
- <sprite>monsters/monster-assassin.xml|#04B4AE</sprite>
+ <sprite>monsters/monster-assassin.xml</sprite>
+ <sprite>equipment/head/standardheadband.xml|#255511,579932,4aaf36,4ed65e</sprite>
 </monster>
 </monsters>

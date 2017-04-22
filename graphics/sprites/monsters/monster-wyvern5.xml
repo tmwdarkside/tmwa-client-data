@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<sprite>
+ <!-- grass wyvern -->
+ <imageset name="base" src="graphics/sprites/monsters/monster-wyvern.png|R:#449924;G:#27d5b4" width="80" height="80" />
+ 
+ <include file="monsters/monster-wyvern.xml"/>
+ 
+</sprite>
+
