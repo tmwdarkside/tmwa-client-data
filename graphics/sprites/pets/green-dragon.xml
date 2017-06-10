@@ -53,7 +53,7 @@
 		</animation>
 		<animation direction="right">
 			<sequence start="16" end="17" delay="100" offsetX="-64"/>
-			<frame index="20" delay="100" offsetX="-64"/>
+			<frame index="17" delay="100" offsetX="-64"/>
 		</animation>
 	</action>
 
