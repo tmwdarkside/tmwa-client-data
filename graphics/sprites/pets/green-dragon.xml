@@ -5,92 +5,76 @@
 
 	<action name="stand" imageset="base">
 		<animation direction="down">
-			<frame index="0" delay="1500" offsetX="-64"/>
-			<frame index="1" delay="200" offsetX="-64"/>
-			<frame index="0" delay="200" offsetX="-64"/>
-			<frame index="1" delay="200" offsetX="-64"/>
-			<frame index="0" delay="200" offsetX="-64"/>
-			<frame index="1" delay="200" offsetX="-64"/>
+			<frame index="0" delay="1000" offsetX="-32"/>
+			<frame index="1" delay="250" offsetX="-32"/>
 		</animation>
 		<animation direction="left">
-			<frame index="24" delay="1500" offsetX="-64"/>
-			<frame index="25" delay="200" offsetX="-64"/>
-			<frame index="24" delay="200" offsetX="-64"/>
-			<frame index="25" delay="200" offsetX="-64"/>
-			<frame index="24" delay="200" offsetX="-64"/>
-			<frame index="25" delay="200" offsetX="-64"/>
+			<frame index="24" delay="1000" offsetX="-32"/>
+			<frame index="25" delay="250" offsetX="-32"/>
 		</animation>
 		<animation direction="up">
-			<frame index="8" delay="1500" offsetX="-64"/>
-			<frame index="9" delay="200" offsetX="-64"/>
-			<frame index="8" delay="200" offsetX="-64"/>
-			<frame index="9" delay="200" offsetX="-64"/>
-			<frame index="8" delay="200" offsetX="-64"/>
-			<frame index="9" delay="200" offsetX="-64"/>
+			<frame index="8" delay="1000" offsetX="-32"/>
+			<frame index="9" delay="250" offsetX="-32"/>
 		</animation>
 		<animation direction="right">
-			<frame index="16" delay="1500" offsetX="-64"/>
-			<frame index="17" delay="200" offsetX="-64"/>
-			<frame index="16" delay="200" offsetX="-64"/>
-			<frame index="17" delay="200" offsetX="-64"/>
-			<frame index="16" delay="200" offsetX="-64"/>
-			<frame index="17" delay="200" offsetX="-64"/>
+			<frame index="16" delay="1000" offsetX="-32"/>
+			<frame index="17" delay="250" offsetX="-32"/>
 		</animation>
 	</action>
 
 	<action name="walk" imageset="base">
 		<animation direction="down">
-			<sequence start="0" end="1" delay="100" offsetX="-64"/>
-			<frame index="1" delay="100" offsetX="-64"/>
+			<sequence start="0" end="1" delay="100" offsetX="-32"/>
+			<frame index="1" delay="100" offsetX="-32"/>
 		</animation>
 		<animation direction="left">
-			<sequence start="24" end="25" delay="100" offsetX="-64"/>
-			<frame index="25" delay="100" offsetX="-64"/>
+			<sequence start="24" end="25" delay="100" offsetX="-32"/>
+			<frame index="25" delay="100" offsetX="-32"/>
 		</animation>
 		<animation direction="up">
-			<sequence start="8" end="9" delay="100" offsetX="-64"/>
-			<frame index="9" delay="100" offsetX="-64"/>
+			<sequence start="8" end="9" delay="100" offsetX="-32"/>
+			<frame index="9" delay="100" offsetX="-32"/>
 		</animation>
 		<animation direction="right">
-			<sequence start="16" end="17" delay="100" offsetX="-64"/>
-			<frame index="17" delay="100" offsetX="-64"/>
+			<sequence start="16" end="17" delay="100" offsetX="-32"/>
+			<frame index="17" delay="100" offsetX="-32"/>
 		</animation>
 	</action>
 
 	<action name="dead" imageset="base">
 		<animation direction="down">
-			<frame index="32" offsetX="-64"/>
+			<frame index="32" offsetX="-32"/>
 		</animation>
 		<animation direction="left">
-			<frame index="32" offsetX="-64"/>
+			<frame index="32" offsetX="-32"/>
 		</animation>
 		<animation direction="up">
-			<frame index="32" offsetX="-64"/>
+			<frame index="32" offsetX="-32"/>
 		</animation>
 		<animation direction="right">
-			<frame index="32" offsetX="-64"/>
+			<frame index="32" offsetX="-32"/>
 		</animation>
 	</action>
 
 	<action name="attack" imageset="base">
 		<animation direction="down">
-      			<sequence start="2" end="7" delay="150" offsetX="-64" />
-      			<frame index="7" delay="150" offsetX="-64" />
+      			<sequence start="2" end="7" delay="150" offsetX="-32" />
+      			<frame index="7" delay="150" offsetX="-32" />
 			<end/>
 		</animation>
 		<animation direction="left">
-      			<sequence start="26" end="31" delay="150" offsetX="-64" />
-      			<frame index="31" delay="150" offsetX="-64" />
+      			<sequence start="26" end="31" delay="150" offsetX="-32" />
+      			<frame index="31" delay="150" offsetX="-32" />
 			<end/>
 		</animation>
 		<animation direction="up">
-      			<sequence start="10" end="15" delay="150" offsetX="-64" />
-      			<frame index="15" delay="150" offsetX="-64" />
+      			<sequence start="10" end="15" delay="150" offsetX="-32" />
+      			<frame index="15" delay="150" offsetX="-32" />
 			<end/>
 		</animation>
 		<animation direction="right">
-      			<sequence start="18" end="23" delay="150" offsetX="-64" />
-      			<frame index="23" delay="150" offsetX="-64" />
+      			<sequence start="18" end="23" delay="150" offsetX="-32" />
+      			<frame index="23" delay="150" offsetX="-32" />
 			<end/>
 		</animation>
 	</action>
