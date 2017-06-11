@@ -8,9 +8,9 @@
   </its:rules>
     <item id="8043"
         image="pets/green-dragon.png"
-        name="Hound"
-        description="Know the feeling having a dragon at your side."
-        effect="HP +100, Str +100"
+        name="GreenDragon"
+        description="Time to know the feeling having a dragon at your side."
+        effect="HP +150, Str +40, Agi +40."
         type="equip-ring"
         weight="1"
         max-per-slot="1"
