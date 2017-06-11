@@ -926,11 +926,11 @@
     <property name="dest_tile_y" value="52"/>
    </properties>
   </object>
-  <object name="Assassin" type="spawn" x="0" y="0">
+  <object name="Assassin" type="spawn" x="328" y="336">
    <properties>
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="9000"/>
-    <property name="max_beings" value="4"/>
+    <property name="max_beings" value="2"/>
     <property name="monster_id" value="1144"/>
    </properties>
   </object>

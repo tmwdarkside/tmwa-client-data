@@ -866,7 +866,7 @@
     <property name="monster_id" value="1101"/>
    </properties>
   </object>
-  <object name="Assassin" type="spawn" x="0" y="0">
+  <object name="Assassin" type="spawn" x="1736" y="1096">
    <properties>
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="9000"/>
