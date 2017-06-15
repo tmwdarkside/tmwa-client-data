@@ -10,5 +10,6 @@
  <sprite>equipment/chest/saviorarmor-white-male.xml|#5b5b5b</sprite>
  <sprite>equipment/wings/daemonwings.xml</sprite>
  <sprite>equipment/weapons/bow-banshee.xml</sprite>
+<attack id="1" missile-particle="graphics/particles/arrow-banshee.particle.xml" action="attack"/>
 </monster>
 </monsters>

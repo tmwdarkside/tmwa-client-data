@@ -10,7 +10,7 @@
     image="equipment/weapon/weapon-staff-red.png"
     name="Red Laser Staff"
     description="A bat made with red light."
-    effect="Attack +50, Str +10, M. Attack +20, Range: 3"
+    effect="Attack +50, M. Attack +20, Range: 3"
     type="equip-2hand"
     attack-range="3"
     weight="500">
