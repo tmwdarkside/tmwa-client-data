@@ -7,7 +7,7 @@
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
     <item id="8044"
-        image="pets/green-dragon.png"
+        image="pets/red-dragon.png"
         name="RedDragon"
         description="Time to know the feeling having a dragon at your side."
         effect="HP +150, Int +40, Luck +40."
