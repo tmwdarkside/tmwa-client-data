@@ -9,6 +9,6 @@
  <sprite>equipment/capes/manta-imperial-male.xml</sprite>
  <sprite>equipment/weapons/bow-banshee.xml</sprite>
  <sprite>pets/pet-black-cat.xml</sprite>
-<attack id="1" missile-particle="graphics/particles/arrow-banshee.particle.xml" action="attack"/>
+<attack id="1" missile-particle="graphics/particles/arrow.particle.xml" action="attack"/>
 </monster>
 </monsters>
