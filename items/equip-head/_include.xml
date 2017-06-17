@@ -102,7 +102,7 @@
   <include name="items/equip-head/item1276_OperaMask.xml"/>
   <include name="items/equip-head/item1277_JesterMask.xml"/>
   <include name="items/equip-head/item1278_WitchHat.xml"/>
-  <include name="items/equip-head/item1302_LuanasWitchHat.xml"/>
+  <include name="items/equip-head/item3201_LuanasHat.xml"/>
   <include name="items/equip-head/item1279_GoblinMask.xml"/>
   <include name="items/equip-head/item2130_RedDesertHat.xml"/>
   <include name="items/equip-head/item2131_GreenDesertHat.xml"/>
