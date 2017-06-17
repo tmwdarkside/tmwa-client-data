@@ -17,6 +17,7 @@
   <include name="items/equip-torso/item650_BlackEvokersRobeBlue.xml"/>
   <include name="items/equip-torso/item651_WhiteWizardRobe.xml"/>
   <include name="items/equip-torso/item652_BlackWizardRobe.xml"/>
+  <include name="items/equip-torso/item3203_LuanasWizardRobe.xml"/>
   <include name="items/equip-torso/item653_ApprenticeRobe.xml"/>
   <include name="items/equip-torso/item658_WarlordPlate.xml"/>
   <include name="items/equip-torso/item659_GoldenWarlordPlate.xml"/>
