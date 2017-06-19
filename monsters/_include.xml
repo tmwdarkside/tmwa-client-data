@@ -135,6 +135,7 @@
   <include name="monsters/monster1139_BlackMamba.xml"/>
   <include name="monsters/monster1140_RedDragon.xml"/>
   <include name="monsters/monster1141_SmokeDragon.xml"/>
+  <include name="monsters/monster1226_DarkDragon.xml"/>
   <include name="monsters/monster1142_ChocolateSlime.xml"/>
   <include name="monsters/monster1048_Duck.xml"/>
   <include name="monsters/monster1143_GenerousSpiky.xml"/>
