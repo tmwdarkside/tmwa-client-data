@@ -976,5 +976,61 @@
     <property name="monster_id" value="1132"/>
    </properties>
   </object>
+  <object name="DarkDragon" type="spawn" x="776" y="1080" width="48" height="40">
+   <properties>
+    <property name="eA_death" value="50000"/>
+    <property name="eA_spawn" value="100000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1226"/>
+   </properties>
+  </object>
+  <object name="DarkDragon" type="spawn" x="1736" y="672" width="48" height="40">
+   <properties>
+    <property name="eA_death" value="50000"/>
+    <property name="eA_spawn" value="100000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1226"/>
+   </properties>
+  </object>
+  <object name="DarkDragon" type="spawn" x="5440" y="472" width="48" height="40">
+   <properties>
+    <property name="eA_death" value="50000"/>
+    <property name="eA_spawn" value="100000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1226"/>
+   </properties>
+  </object>
+  <object name="DarkDragon" type="spawn" x="5448" y="1256" width="48" height="40">
+   <properties>
+    <property name="eA_death" value="50000"/>
+    <property name="eA_spawn" value="100000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1226"/>
+   </properties>
+  </object>
+  <object name="FireSkullLord" type="spawn" x="3088" y="1928" width="40" height="56">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1146"/>
+   </properties>
+  </object>
+  <object name="TerraniteMask" type="spawn" x="2472" y="2728" width="1352" height="48">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1145"/>
+   </properties>
+  </object>
+  <object name="Reaper" type="spawn" x="3504" y="3128" width="48" height="40">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1068"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>
