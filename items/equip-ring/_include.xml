@@ -30,6 +30,7 @@
   <include name="items/equip-ring/item8043_GreenDragon.xml"/>
   <include name="items/equip-ring/item8044_RedDragon.xml"/>
   <include name="items/equip-ring/item8045_SmokeDragon.xml"/>
+  <include name="items/equip-ring/item8046_DarkDragon.xml"/>
   <include name="items/equip-ring/item3390_ImperialBlanket.xml"/>
   <include name="items/equip-ring/item3395_DuckFloat.xml"/>
   <include name="items/equip-ring/item3396_ElephantFloat.xml"/>
