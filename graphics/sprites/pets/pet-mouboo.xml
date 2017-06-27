@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <sprite variants="60" variant_offset="1">
-  <imageset name="mob" src="graphics/sprites/pets/pet-mouboo.png" width="40" height="40"/>
-  <action name="stand" imageset="mob">
+  <imageset name="base" src="graphics/sprites/pets/pet-mouboo.png" width="40" height="40"/>
+  <action name="stand" imageset="base">
     <animation direction="down">
       <frame index="0" offsetX="-30"/>
     </animation>
@@ -15,7 +15,7 @@
       <frame index="45" offsetX="-30"/>
     </animation>
   </action>
-  <action name="walk" imageset="mob">
+  <action name="walk" imageset="base">
     <animation direction="down">
       <sequence start="1" end="6" delay="75" offsetX="-30"/>
     </animation>
@@ -29,7 +29,7 @@
       <sequence start="46" end="51" delay="75" offsetX="-30"/>
     </animation>
   </action>
-  <action name="attack" imageset="mob">
+  <action name="attack" imageset="base">
     <animation direction="down">
       <sequence start="7" end="13" delay="75" offsetX="-30"/>
       <end/>
@@ -47,7 +47,7 @@
       <end/>
     </animation>
   </action>
-  <action name="dead" imageset="mob">
+  <action name="dead" imageset="base">
     <animation>
       <frame index="14" delay="150" offsetX="-30"/>
       <frame index="29" delay="150" offsetX="-30"/>
