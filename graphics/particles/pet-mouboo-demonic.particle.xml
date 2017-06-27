@@ -7,7 +7,7 @@ A smoke effect intended for use with the Demonic Mouboo mob
     <emitter>
       <property name="position-x" min="-25" max="25"/>
       <property name="position-y" min="-40" max="60"/>
-      <property name="position-z" min="64" max="64"/>
+      <property name="position-z" min="32" max="32"/>
       <property name="image" value="graphics/particles/fog-pet-a.png|W:#1a1a1b"/>
       <property name="horizontal-angle" min="0" max="360"/>
       <property name="vertical-angle" min="50" max="90"/>
@@ -21,7 +21,7 @@ A smoke effect intended for use with the Demonic Mouboo mob
     <emitter>
       <property name="position-x" min="-25" max="25"/>
       <property name="position-y" min="-40" max="60"/>
-      <property name="position-z" min="64" max="64"/>
+      <property name="position-z" min="32" max="32"/>
       <property name="image" value="graphics/particles/fog-pet-b.png|W:#1a1a1b"/>
       <property name="horizontal-angle" min="0" max="360"/>
       <property name="vertical-angle" min="50" max="90"/>
@@ -35,7 +35,7 @@ A smoke effect intended for use with the Demonic Mouboo mob
     <emitter>
       <property name="position-x" min="-25" max="25"/>
       <property name="position-y" min="-40" max="60"/>
-      <property name="position-z" min="64" max="64"/>
+      <property name="position-z" min="32" max="32"/>
       <property name="image" value="graphics/particles/fog-pet-c.png|W:#1a1a1b"/>
       <property name="horizontal-angle" min="0" max="360"/>
       <property name="vertical-angle" min="50" max="90"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sprite>
-  <imageset name="mob" src="graphics/sprites/pets/pet-mouboo-demonic.png" width="80" height="80"/>
+  <imageset name="mob" src="graphics/sprites/pets/pet-mouboo-demonic.png" width="40" height="40"/>
   <action name="stand" imageset="mob">
     <animation direction="down">
       <frame index="0" offsetX="-30"/>
@@ -12,7 +12,7 @@
       <frame index="30" offsetX="-30"/>
     </animation>
     <animation direction="right">
-      <frame index="45" offsetX="-30"/>
+      <frame index="45" offsetX="-35"/>
     </animation>
   </action>
   <action name="walk" imageset="mob">
@@ -26,7 +26,7 @@
       <sequence start="31" end="36" delay="75" offsetX="-30"/>
     </animation>
     <animation direction="right">
-      <sequence start="46" end="51" delay="75" offsetX="-30"/>
+      <sequence start="46" end="51" delay="75" offsetX="-35"/>
     </animation>
   </action>
   <action name="attack" imageset="mob">
@@ -43,7 +43,7 @@
       <end/>
     </animation>
     <animation direction="right">
-      <sequence start="52" end="58" delay="75" offsetX="-30"/>
+      <sequence start="52" end="58" delay="75" offsetX="-35"/>
       <end/>
     </animation>
   </action>
