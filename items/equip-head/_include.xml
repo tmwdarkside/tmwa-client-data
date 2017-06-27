@@ -6,6 +6,7 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
+  <include name="items/equip-head/item3069_GoldenDragonHelm.xml"/>
   <include name="items/equip-head/item511_SantaHat.xml"/>
   <include name="items/equip-head/item524_FancyHat.xml"/>
   <include name="items/equip-head/item525_MinersHat.xml"/>
