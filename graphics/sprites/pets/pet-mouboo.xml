@@ -31,19 +31,19 @@
   </action>
   <action name="attack" imageset="base">
     <animation direction="down">
-      <sequence start="7" end="13" delay="500" offsetX="-30"/>
+      <sequence start="7" end="13" delay="75" offsetX="-30"/>
       <end/>
     </animation>
     <animation direction="left">
-      <sequence start="22" end="28" delay="500" offsetX="-30"/>
+      <sequence start="22" end="28" delay="75" offsetX="-30"/>
       <end/>
     </animation>
     <animation direction="up">
-      <sequence start="37" end="43" delay="500" offsetX="-30"/>
+      <sequence start="37" end="43" delay="75" offsetX="-30"/>
       <end/>
     </animation>
     <animation direction="right">
-      <sequence start="52" end="58" delay="500" offsetX="-30"/>
+      <sequence start="52" end="58" delay="75" offsetX="-30"/>
       <end/>
     </animation>
   </action>
