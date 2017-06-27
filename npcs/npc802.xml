@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="802">
+    <sprite variant="0">monsters/skeleton.xml</sprite>
+    <sprite>equipment/head/sunglasses.xml</sprite>
+  </npc>
+</npcs>
