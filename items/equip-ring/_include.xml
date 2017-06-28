@@ -29,6 +29,7 @@
   <include name="items/equip-ring/item8042_BlackCat.xml"/>
   <include name="items/equip-ring/item3210_Mouboo.xml"/>
   <include name="items/equip-ring/item3211_DemonicMouboo.xml"/>
+  <include name="items/equip-ring/item3212_Wolvern.xml"/>
   <include name="items/equip-ring/item8043_GreenDragon.xml"/>
   <include name="items/equip-ring/item8044_RedDragon.xml"/>
   <include name="items/equip-ring/item8045_SmokeDragon.xml"/>
