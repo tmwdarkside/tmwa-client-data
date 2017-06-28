@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sprite>
-  <imageset name="base" src="graphics/sprites/monsters/pet-wolvern.png|W" width="46" height="32"/>
+  <imageset name="base" src="graphics/sprites/pets/pet-wolvern.png|W" width="46" height="32"/>
   <action name="stand" imageset="base">
     <animation direction="down">
       <frame index="28" delay="300" offsetX="-30"/>
