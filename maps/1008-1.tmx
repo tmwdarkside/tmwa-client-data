@@ -764,5 +764,29 @@
     <property name="monster_id" value="1098"/>
    </properties>
   </object>
+  <object name="WhiteGhost" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="2"/>
+    <property name="monster_id" value="1165"/>
+   </properties>
+  </object>
+  <object name="CobaltGhost" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="2"/>
+    <property name="monster_id" value="1166"/>
+   </properties>
+  </object>
+  <object name="MauveGhost" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="2"/>
+    <property name="monster_id" value="1167"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

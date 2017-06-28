@@ -790,5 +790,13 @@
     <property name="monster_id" value="1141"/>
    </properties>
   </object>
+  <object name="FafiDragon" type="spawn" x="1984" y="1424" width="2624" height="1120">
+   <properties>
+    <property name="eA_death" value="50000"/>
+    <property name="eA_spawn" value="100000"/>
+    <property name="max_beings" value="2"/>
+    <property name="monster_id" value="1138"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

@@ -1150,5 +1150,21 @@
     <property name="dest_tile_y" value="33"/>
    </properties>
   </object>
+  <object name="FallenLord" type="spawn" x="2224" y="728" width="1672" height="168">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="5"/>
+    <property name="monster_id" value="1172"/>
+   </properties>
+  </object>
+  <object name="FallenLord" type="spawn" x="3832" y="968" width="264" height="424">
+   <properties>
+    <property name="eA_death" value="18000"/>
+    <property name="eA_spawn" value="9000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1172"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>
