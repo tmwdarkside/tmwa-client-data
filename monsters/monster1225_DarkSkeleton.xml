@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <monsters offset="0">
-  <monster id="3225" name="Dark Skeleton">
+  <monster id="1225" name="Dark Skeleton">
     <sprite>monsters/dark-skeleton.xml</sprite>
     <particlefx>graphics/particles/necroblast.particle.xml</particlefx>
     <particlefx>graphics/particles/monster-mouboo-demonic.particle.xml</particlefx>

@@ -71,7 +71,7 @@
   <include name="monsters/monster1073_TheLost.xml"/>
   <include name="monsters/monster1074_RedBone.xml"/>
   <include name="monsters/monster1074_RedBone.xml"/>
-  <include name="monsters/monster3225_DarkSkeleton.xml"/>
+  <include name="monsters/monster1225_DarkSkeleton.xml"/>
   <include name="monsters/monster1077_DrunkenSkeleton.xml"/>
   <include name="monsters/monster1078_TipsySkeleton.xml"/>
   <include name="monsters/monster1079_DrunkenLadySkeleton.xml"/>
