@@ -5,7 +5,7 @@ Green stars which are supposed to engulf a character
 <effect>
   <particle position-x="0" position-y="0" position-z="0">
     <emitter>
-      <property name="image" value="graphics/particles/single-heart.png"/>
+      <property name="image" value="graphics/particles/single-dark-heart.png"/>
       <property name="vertical-angle" value="90"/>
       <property name="gravity" min="-0.5" max="-0.6"/>
       <property name="momentum" value="0.0001"/>
