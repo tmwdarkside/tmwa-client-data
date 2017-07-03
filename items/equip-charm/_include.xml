@@ -7,6 +7,7 @@
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
   <include name="items/equip-charm/item677_HeartNecklace.xml"/>
+  <include name="items/equip-charm/item2320_DarkNecklace.xml"/>
   <include name="items/equip-charm/item742_FourLeafClover.xml"/>
   <include name="items/equip-charm/item749_Towel.xml"/>
   <include name="items/equip-charm/item829_CrozeniteFourLeafAmulet.xml"/>
