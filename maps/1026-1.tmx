@@ -1062,5 +1062,13 @@
     <property name="monster_id" value="1086"/>
    </properties>
   </object>
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="2208" y="928" width="32" height="32"/>
+  <object name="Out of Night Side" type="warp" x="2208" y="928" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="026-1"/>
+    <property name="dest_tile_x" value="69"/>
+    <property name="dest_tile_y" value="29"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

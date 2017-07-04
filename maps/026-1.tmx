@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="120" tilewidth="32" tileheight="32" nextobjectid="34">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="120" tilewidth="32" tileheight="32">
  <properties>
   <property name="minimap" value="graphics/minimaps/026-1.png"/>
   <property name="music" value="graveyard.ogg"/>
@@ -23,6 +23,7 @@
  <tileset firstgid="1382" source="../tilesets/woodland_graveyard_x3.tsx"/>
  <tileset firstgid="1462" source="../tilesets/woodland_village_x3.tsx"/>
  <tileset firstgid="1528" source="../tilesets/woodland_village_x2.tsx"/>
+ <tileset firstgid="1544" source="../tilesets/warp_gates.tsx"/>
  <layer name="Ground1" width="150" height="120">
   <data encoding="csv">
 51,51,659,647,710,629,19,3,51,3,51,19,3,51,19,3,51,19,3,51,19,3,51,3,51,19,35,35,3,51,659,647,644,644,646,709,659,647,644,644,662,629,19,19,659,660,647,644,644,644,693,19,3,51,19,3,51,3,51,19,19,3,51,19,3,51,3,35,35,35,35,92,94,35,3,51,19,3,51,3,51,19,3,51,19,3,51,19,3,51,19,3,51,3,51,19,3,675,711,644,696,644,646,661,19,3,51,3,51,19,3,3,67,3,51,3,67,3,35,67,67,3,35,3,67,3,3,3,3,67,3,67,67,67,67,3,3,3,3,3,3,3,3,3,19,19,3,3,3,101,
@@ -424,9 +425,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,295,296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,275,0,0,0,0,0,0,0,0,0,0,0,0,0,280,281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,291,292,0,0,293,294,0,0,293,294,0,0,0,0,0,293,294,0,0,0,0,0,0,0,0,0,291,292,0,263,268,0,0,293,294,
 0,0,0,0,0,0,0,0,0,0,0,293,294,0,595,596,0,0,293,294,0,0,583,584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,291,292,0,1492,1478,1477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,0,0,0,0,585,586,587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,295,296,0,0,293,294,0,291,292,293,294,0,0,295,296,293,294,0,0,0,0,0,0,582,583,584,0,0,0,0,295,296,582,583,584,0,579,
 580,581,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,291,292,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280,281,0,0,0,0,0,0,0,597,598,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,0,291,292,0,295,296,0,291,292,0,579,580,581,0,0,293,294,0,582,583,584,0,0,0,0,0,0,0,291,292,0,0,0,293,294,268,
-0,293,294,0,0,0,0,293,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,305,306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,291,292,295,296,291,292,0,291,292,293,294,0,0,0,0,0,295,296,0,0,0,582,583,584,0,0,0,0,293,294,293,294,291,292,0,0,268,
-0,0,0,0,0,0,0,0,0,0,595,596,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,291,292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,0,0,0,0,291,292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,291,292,0,0,0,291,292,0,0,0,0,293,294,0,0,293,294,293,294,295,296,0,0,0,293,294,0,293,294,582,583,584,582,583,584,291,292,293,294,0,293,294,582,583,584,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,585,586,587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,291,292,0,295,296,295,296,291,292,0,295,296,0,0,0,291,292,0,582,583,584,0,0,0,0,582,583,584,0,0,0,0,0,582,
+0,293,294,0,0,0,0,293,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,305,306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1544,1545,1546,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,291,292,295,296,291,292,0,291,292,293,294,0,0,0,0,0,295,296,0,0,0,582,583,584,0,0,0,0,293,294,293,294,291,292,0,0,268,
+0,0,0,0,0,0,0,0,0,0,595,596,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,291,292,0,0,0,0,0,0,0,1560,1561,1562,0,0,0,0,0,0,293,294,0,0,0,0,0,0,0,291,292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,291,292,0,0,0,291,292,0,0,0,0,293,294,0,0,293,294,293,294,295,296,0,0,0,293,294,0,293,294,582,583,584,582,583,584,291,292,293,294,0,293,294,582,583,584,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,585,586,587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,1576,1577,1578,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,291,292,0,295,296,295,296,291,292,0,295,296,0,0,0,291,292,0,582,583,584,0,0,0,0,582,583,584,0,0,0,0,0,582,
 294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,597,598,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,597,598,0,0,0,0,0,291,292,0,0,0,0,0,0,0,0,0,0,0,291,292,0,0,0,0,0,295,296,0,595,596,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,295,296,0,0,0,0,0,0,291,292,293,294,0,0,0,0,291,292,582,583,584,0,0,0,0,0,293,294,295,296,293,294,0,0,293,294,291,292,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,294,0,0,0,0,0,0,0,0,0,0,295,296,0,0,0,0,0,0,0,293,294,0,0,0,0,293,294,291,292,0,291,292,582,583,584,0,293,294,0,0,0,0,0,582,583,584,0,293,294,0,
 0,0,0,0,0,278,279,0,0,0,293,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280,281,0,0,0,0,0,0,0,0,0,0,0,0,0,280,281,0,0,305,306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,305,306,0,291,292,0,0,0,0,0,0,0,0,0,293,294,0,0,0,293,294,0,0,0,295,296,582,583,584,0,0,0,0,0,0,291,292,291,292,0,0,293,294,55,0,0,0,
@@ -1016,21 +1017,21 @@
 </data>
  </layer>
  <objectgroup name="Objects">
-  <object id="1" name="To Graveyard" type="warp" x="2016" y="512" width="32" height="32">
+  <object name="To Graveyard" type="warp" x="2016" y="512" width="32" height="32">
    <properties>
     <property name="dest_map" value="027-1"/>
     <property name="dest_tile_x" value="63"/>
     <property name="dest_tile_y" value="105"/>
    </properties>
   </object>
-  <object id="2" name="To Woodland Swamp" type="warp" x="4128" y="2112" width="32" height="32">
+  <object name="To Woodland Swamp" type="warp" x="4128" y="2112" width="32" height="32">
    <properties>
     <property name="dest_map" value="025-1"/>
     <property name="dest_tile_x" value="20"/>
     <property name="dest_tile_y" value="66"/>
    </properties>
   </object>
-  <object id="3" name="Wisp" type="spawn" x="0" y="0">
+  <object name="Wisp" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="40000"/>
     <property name="eA_spawn" value="120000"/>
@@ -1038,7 +1039,7 @@
     <property name="monster_id" value="38"/>
    </properties>
   </object>
-  <object id="4" name="Spectre" type="spawn" x="0" y="0">
+  <object name="Spectre" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="40000"/>
     <property name="eA_spawn" value="120000"/>
@@ -1046,7 +1047,7 @@
     <property name="monster_id" value="40"/>
    </properties>
   </object>
-  <object id="5" name="Poltergeist" type="spawn" x="0" y="0">
+  <object name="Poltergeist" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="40000"/>
     <property name="eA_spawn" value="120000"/>
@@ -1054,7 +1055,7 @@
     <property name="monster_id" value="45"/>
    </properties>
   </object>
-  <object id="6" name="Silkworm" type="spawn" x="0" y="0">
+  <object name="Silkworm" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="60000"/>
     <property name="eA_spawn" value="300000"/>
@@ -1062,7 +1063,7 @@
     <property name="monster_id" value="33"/>
    </properties>
   </object>
-  <object id="8" name="LogHead" type="spawn" x="0" y="0">
+  <object name="LogHead" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="40000"/>
     <property name="eA_spawn" value="300000"/>
@@ -1070,14 +1071,14 @@
     <property name="monster_id" value="23"/>
    </properties>
   </object>
-  <object id="19" name="To Reid's Inn" type="warp" x="1536" y="1248" width="32" height="32">
+  <object name="To Reid's Inn" type="warp" x="1536" y="1248" width="32" height="32">
    <properties>
     <property name="dest_map" value="026-2"/>
     <property name="dest_tile_x" value="29"/>
     <property name="dest_tile_y" value="33"/>
    </properties>
   </object>
-  <object id="20" name="DrunkenSkeleton" type="spawn" x="672" y="768" width="1824" height="480">
+  <object name="DrunkenSkeleton" type="spawn" x="672" y="768" width="1824" height="480">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
@@ -1085,7 +1086,7 @@
     <property name="monster_id" value="75"/>
    </properties>
   </object>
-  <object id="21" name="TipsySkeleton" type="spawn" x="768" y="832" width="1696" height="384">
+  <object name="TipsySkeleton" type="spawn" x="768" y="832" width="1696" height="384">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
@@ -1093,7 +1094,7 @@
     <property name="monster_id" value="76"/>
    </properties>
   </object>
-  <object id="22" name="DrunkenSkeleton" type="spawn" x="736" y="1984" width="2150" height="992">
+  <object name="DrunkenSkeleton" type="spawn" x="736" y="1984" width="2150" height="992">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
@@ -1101,7 +1102,7 @@
     <property name="monster_id" value="75"/>
    </properties>
   </object>
-  <object id="23" name="TipsySkeleton" type="spawn" x="896" y="2112" width="1930" height="770">
+  <object name="TipsySkeleton" type="spawn" x="896" y="2112" width="1930" height="770">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
@@ -1109,7 +1110,7 @@
     <property name="monster_id" value="76"/>
    </properties>
   </object>
-  <object id="24" name="DrunkenSkeleton" type="spawn" x="3040" y="704" width="1024" height="2400">
+  <object name="DrunkenSkeleton" type="spawn" x="3040" y="704" width="1024" height="2400">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
@@ -1117,7 +1118,7 @@
     <property name="monster_id" value="75"/>
    </properties>
   </object>
-  <object id="25" name="TipsySkeleton" type="spawn" x="3072" y="768" width="928" height="2304">
+  <object name="TipsySkeleton" type="spawn" x="3072" y="768" width="928" height="2304">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
@@ -1125,21 +1126,21 @@
     <property name="monster_id" value="76"/>
    </properties>
   </object>
-  <object id="28" name="To Shops" type="warp" x="1376" y="768" width="32" height="32">
+  <object name="To Shops" type="warp" x="1376" y="768" width="32" height="32">
    <properties>
     <property name="dest_map" value="026-2"/>
     <property name="dest_tile_x" value="31"/>
     <property name="dest_tile_y" value="128"/>
    </properties>
   </object>
-  <object id="29" name="To House" type="warp" x="800" y="640" width="32" height="32">
+  <object name="To House" type="warp" x="800" y="640" width="32" height="32">
    <properties>
     <property name="dest_map" value="026-2"/>
     <property name="dest_tile_x" value="22"/>
     <property name="dest_tile_y" value="95"/>
    </properties>
   </object>
-  <object id="31" name="DrunkenLadySkeleton" type="spawn" x="3040" y="704" width="1024" height="2400">
+  <object name="DrunkenLadySkeleton" type="spawn" x="3040" y="704" width="1024" height="2400">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
@@ -1147,7 +1148,7 @@
     <property name="monster_id" value="77"/>
    </properties>
   </object>
-  <object id="32" name="DrunkenLadySkeleton" type="spawn" x="736" y="2016" width="2240" height="1056">
+  <object name="DrunkenLadySkeleton" type="spawn" x="736" y="2016" width="2240" height="1056">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
@@ -1155,12 +1156,20 @@
     <property name="monster_id" value="77"/>
    </properties>
   </object>
-  <object id="33" name="DrunkenLadySkeleton" type="spawn" x="672" y="800" width="1760" height="416">
+  <object name="DrunkenLadySkeleton" type="spawn" x="672" y="800" width="1760" height="416">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
     <property name="max_beings" value="4"/>
     <property name="monster_id" value="77"/>
+   </properties>
+  </object>
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="2208" y="928" width="32" height="32"/>
+  <object name="Out of Night Side" type="warp" x="2208" y="928" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="1026-1"/>
+    <property name="dest_tile_x" value="69"/>
+    <property name="dest_tile_y" value="29"/>
    </properties>
   </object>
  </objectgroup>
