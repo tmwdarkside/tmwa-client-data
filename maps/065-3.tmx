@@ -1025,14 +1025,14 @@
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="4"/>
-    <property name="monster_id" value="113"/>
+    <property name="monster_id" value="1132"/>
    </properties>
   </object>
   <object name="LavaSlime" type="spawn" x="576" y="3072" width="3136" height="992">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="11"/>
-    <property name="monster_id" value="113"/>
+    <property name="monster_id" value="1132"/>
    </properties>
   </object>
   <object name="BlackMamba" type="spawn" x="576" y="608" width="3616" height="3456">
