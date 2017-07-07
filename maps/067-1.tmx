@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="150" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="150" tilewidth="32" tileheight="32" nextobjectid="2">
  <properties>
-  <property name="music" value="cavesong.ogg"/>
+  <property name="music" value="finalman_and_yakslem-cavesong.ogg"/>
   <property name="name" value="Somber Cave"/>
   <property name="overlay0image" value="graphics/images/ambient/spotlight.png"/>
   <property name="overlay0keepratio" value="true"/>
@@ -937,109 +937,109 @@
 </data>
  </layer>
  <objectgroup name="Objects">
-  <object name="Somber Cave Exit" type="warp" x="3648" y="736" width="32" height="32">
+  <object id="1" name="Somber Cave Exit" type="warp" x="3648" y="736" width="32" height="32">
    <properties>
-    <property name="dest_map" value="065-2"/>
-    <property name="dest_tile_x" value="77"/>
-    <property name="dest_tile_y" value="50"/>
+    <property name="dest_map" value="009-1"/>
+    <property name="dest_tile_x" value="1"/>
+    <property name="dest_tile_y" value="1"/>
    </properties>
   </object>
-  <object name="DarkSkeleton" type="spawn" x="2560" y="2880" width="128" height="128">
-   <properties>
-    <property name="eA_death" value="20000"/>
-    <property name="max_beings" value="2"/>
-    <property name="monster_id" value="1225"/>
-   </properties>
-  </object>
-  <object name="DarkSkeleton" type="spawn" x="1152" y="1920" width="128" height="128">
+  <object id="2" name="FireLizard" type="spawn" x="2560" y="2880" width="128" height="128">
    <properties>
     <property name="eA_death" value="20000"/>
     <property name="max_beings" value="2"/>
-    <property name="monster_id" value="1225"/>
+    <property name="monster_id" value="37"/>
    </properties>
   </object>
-  <object name="DarkSkeleton" type="spawn" x="1408" y="3616" width="128" height="128">
+  <object id="3" name="FireLizard" type="spawn" x="1152" y="1920" width="128" height="128">
    <properties>
     <property name="eA_death" value="20000"/>
     <property name="max_beings" value="2"/>
-    <property name="monster_id" value="1225"/>
+    <property name="monster_id" value="37"/>
    </properties>
   </object>
-  <object name="LavaSlime" type="spawn" x="0" y="0">
+  <object id="4" name="FireLizard" type="spawn" x="1408" y="3616" width="128" height="128">
+   <properties>
+    <property name="eA_death" value="20000"/>
+    <property name="max_beings" value="2"/>
+    <property name="monster_id" value="37"/>
+   </properties>
+  </object>
+  <object id="5" name="LavaSlime" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="8"/>
-    <property name="monster_id" value="1132"/>
+    <property name="monster_id" value="113"/>
    </properties>
   </object>
-  <object name="DarkSkeleton" type="spawn" x="0" y="0">
+  <object id="6" name="FireGoblin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="20"/>
     <property name="max_beings" value="30"/>
-    <property name="monster_id" value="1225"/>
+    <property name="monster_id" value="9"/>
    </properties>
   </object>
-  <object name="FireSkull" type="spawn" x="2368" y="1664" width="130" height="128">
+  <object id="7" name="FireSkull" type="spawn" x="2368" y="1664" width="128" height="128">
    <properties>
     <property name="eA_death" value="10000"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1023"/>
+    <property name="monster_id" value="21"/>
    </properties>
   </object>
-  <object name="FireSkull" type="spawn" x="3616" y="3648" width="160" height="160">
+  <object id="8" name="FireSkull" type="spawn" x="3616" y="3648" width="160" height="160">
    <properties>
     <property name="eA_death" value="10000"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="1023"/>
+    <property name="monster_id" value="21"/>
    </properties>
   </object>
-  <object name="EvilMushroom" type="spawn" x="0" y="0">
+  <object id="9" name="EvilMushroom" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="20"/>
     <property name="max_beings" value="10"/>
-    <property name="monster_id" value="1013"/>
+    <property name="monster_id" value="11"/>
    </properties>
   </object>
-  <object name="LavaSlime" type="spawn" x="576" y="608" width="1408" height="2464">
+  <object id="10" name="LavaSlime" type="spawn" x="576" y="608" width="1408" height="2464">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="12"/>
-    <property name="monster_id" value="1132"/>
+    <property name="monster_id" value="113"/>
    </properties>
   </object>
-  <object name="LavaSlime" type="spawn" x="1984" y="608" width="2208" height="1760">
+  <object id="11" name="LavaSlime" type="spawn" x="1984" y="608" width="2208" height="1760">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="10"/>
-    <property name="monster_id" value="1132"/>
+    <property name="monster_id" value="113"/>
    </properties>
   </object>
-  <object name="LavaSlime" type="spawn" x="1984" y="2368" width="1728" height="704">
+  <object id="12" name="LavaSlime" type="spawn" x="1984" y="2368" width="1728" height="704">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="5"/>
-    <property name="monster_id" value="1132"/>
+    <property name="monster_id" value="113"/>
    </properties>
   </object>
-  <object name="LavaSlime" type="spawn" x="3712" y="2368" width="480" height="1696">
+  <object id="13" name="LavaSlime" type="spawn" x="3712" y="2368" width="480" height="1696">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="4"/>
-    <property name="monster_id" value="1132"/>
+    <property name="monster_id" value="113"/>
    </properties>
   </object>
-  <object name="LavaSlime" type="spawn" x="576" y="3072" width="3136" height="992">
+  <object id="14" name="LavaSlime" type="spawn" x="576" y="3072" width="3136" height="992">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="11"/>
-    <property name="monster_id" value="1132"/>
+    <property name="monster_id" value="113"/>
    </properties>
   </object>
-  <object name="BlackMamba" type="spawn" x="576" y="608" width="3616" height="3456">
+  <object id="1" name="BlackMamba" type="spawn" x="576" y="608" width="3616" height="3456">
    <properties>
     <property name="eA_spawn" value="15000"/>
     <property name="max_beings" value="9"/>
-    <property name="monster_id" value="1139"/>
+    <property name="monster_id" value="119"/>
    </properties>
   </object>
  </objectgroup>

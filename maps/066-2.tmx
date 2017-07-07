@@ -5,8 +5,6 @@
   <property name="name" value="Lost Island Shop"/>
  </properties>
  <tileset firstgid="1" source="../tilesets/woodland_indoor.tsx"/>
- <tileset firstgid="257" source="../tilesets/woodland_indoor_backup.tsx"/>
- <tileset firstgid="257" source="../tilesets/woodland_indoor_backup.tsx"/>
  <tileset firstgid="257" source="../tilesets/woodland_indoor_x2.tsx"/>
  <tileset firstgid="305" source="../tilesets/woodland_indoor_x3.tsx"/>
  <tileset firstgid="353" source="../tilesets/collision.tsx"/>
