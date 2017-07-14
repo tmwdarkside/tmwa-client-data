@@ -94,7 +94,7 @@
   </map>
   <!-- Secret Island-->
   <map name="067-1.tmx">
-    <atlas name="secretisland"/>
+    <atlas name="secret"/>
   </map>
   <!-- Dark Woodland -->
   <map name="1007-1.tmx">
@@ -714,7 +714,7 @@
     <file name="graphics/tiles/warp_gates.png"/>
   </atlas>
   <!-- secretisland -->
-  <atlas name="secretisland">
+  <atlas name="secret">
     <file name="graphics/tiles/woodland_ground.png"/>
     <file name="graphics/tiles/woodland_ground2.png"/>
     <file name="graphics/tiles/woodland_village.png"/>
