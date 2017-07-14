@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0.0" orientation="orthogonal" renderorder="right-down" width="200" height="200" tilewidth="32" tileheight="32" nextobjectid="29">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="200" tilewidth="32" tileheight="32">
  <properties>
   <property name="minimap" value="graphics/minimaps/066-1.png"/>
   <property name="music" value="night-is-calling.ogg"/>
@@ -653,9 +653,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,855,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,847,848,849,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,863,864,865,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,828,829,830,0,0,0,822,823,824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,844,845,846,0,0,0,838,839,840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,860,861,862,0,0,0,854,855,856,0,0,0,0,858,0,0,0,0,0,864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,855,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,844,845,846,0,0,0,838,839,840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,831,832,833,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,860,861,862,0,0,0,854,855,856,0,0,0,0,858,0,0,0,0,0,864,0,0,0,0,0,0,0,847,848,849,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,855,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,863,864,865,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,467,468,0,0,467,468,0,0,467,468,0,0,467,468,0,0,0,0,0,0,0,467,468,0,0,467,468,0,0,467,468,0,0,467,468,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,467,468,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,13,13,13,13,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,433,434,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,14,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1246,131 +1246,131 @@
 </data>
  </layer>
  <objectgroup name="Objects">
-  <object id="1" name="graphics/particles/bonfire.particle.xml" type="PARTICLE_EFFECT" x="3553" y="3776" width="32" height="32"/>
-  <object id="2" name="Lost Island Shop" type="warp" x="2977" y="1247" width="32" height="32">
+  <object name="graphics/particles/bonfire.particle.xml" type="PARTICLE_EFFECT" x="3553" y="3776" width="32" height="32"/>
+  <object name="Lost Island Shop" type="warp" x="2977" y="1247" width="32" height="32">
    <properties>
     <property name="dest_map" value="066-2"/>
     <property name="dest_tile_x" value="17"/>
     <property name="dest_tile_y" value="17"/>
    </properties>
   </object>
-  <object id="3" name="No Name Island" type="warp" x="5792" y="544" width="32" height="32">
+  <object name="No Name Island" type="warp" x="5792" y="544" width="32" height="32">
    <properties>
     <property name="dest_map" value="065-1"/>
     <property name="dest_tile_x" value="50"/>
     <property name="dest_tile_y" value="48"/>
    </properties>
   </object>
-  <object id="4" name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="5792" y="544" width="32" height="32"/>
-  <object id="5" name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="2432" y="640" width="32" height="32"/>
-  <object id="6" name="Mele Island" type="warp" x="2432" y="640" width="32" height="32">
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="5792" y="544" width="32" height="32"/>
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="2432" y="640" width="32" height="32"/>
+  <object name="Mele Island" type="warp" x="2432" y="640" width="32" height="32">
    <properties>
     <property name="dest_map" value="060-1"/>
     <property name="dest_tile_x" value="6"/>
     <property name="dest_tile_y" value="37"/>
    </properties>
   </object>
-  <object id="7" name="TheLost" type="spawn" x="3053" y="4243" width="262" height="195">
+  <object name="TheLost" type="spawn" x="3053" y="4243" width="262" height="195">
    <properties>
     <property name="eA_spawn" value="3000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1073"/>
    </properties>
   </object>
-  <object id="8" name="AngrySeaSlime" type="spawn" x="0" y="0">
+  <object name="AngrySeaSlime" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="1500"/>
     <property name="max_beings" value="15"/>
     <property name="monster_id" value="1109"/>
    </properties>
   </object>
-  <object id="9" name="ManaGhost" type="spawn" x="4587" y="5133" width="101" height="67">
+  <object name="ManaGhost" type="spawn" x="4587" y="5133" width="101" height="67">
    <properties>
     <property name="eA_spawn" value="3000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1125"/>
    </properties>
   </object>
-  <object id="10" name="Mouboo" type="spawn" x="4238" y="1161" width="132" height="78">
+  <object name="Mouboo" type="spawn" x="4238" y="1161" width="132" height="78">
    <properties>
     <property name="eA_spawn" value="300"/>
     <property name="max_beings" value="4"/>
     <property name="monster_id" value="1028"/>
    </properties>
   </object>
-  <object id="11" name="Pinkie" type="spawn" x="0" y="0">
+  <object name="Pinkie" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="20"/>
     <property name="max_beings" value="18"/>
     <property name="monster_id" value="16"/>
    </properties>
   </object>
-  <object id="12" name="ManaBug" type="spawn" x="0" y="0">
+  <object name="ManaBug" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="30"/>
     <property name="max_beings" value="18"/>
     <property name="monster_id" value="1131"/>
    </properties>
   </object>
-  <object id="13" name="Maggot" type="spawn" x="0" y="0">
+  <object name="Maggot" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="30"/>
     <property name="max_beings" value="30"/>
     <property name="monster_id" value="1002"/>
    </properties>
   </object>
-  <object id="14" name="MauvePlant" type="spawn" x="0" y="0">
+  <object name="MauvePlant" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="27000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="27"/>
    </properties>
   </object>
-  <object id="15" name="Silkworm" type="spawn" x="0" y="0">
+  <object name="Silkworm" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="60000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="33"/>
    </properties>
   </object>
-  <object id="16" name="CloverPatch" type="spawn" x="0" y="0">
+  <object name="CloverPatch" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="10000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="35"/>
    </properties>
   </object>
-  <object id="17" name="ViciousSquirrel" type="spawn" x="0" y="0">
+  <object name="ViciousSquirrel" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="30"/>
     <property name="max_beings" value="10"/>
     <property name="monster_id" value="1105"/>
    </properties>
   </object>
-  <object id="18" name="Butterfly" type="spawn" x="0" y="0">
+  <object name="Butterfly" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="30"/>
     <property name="max_beings" value="10"/>
     <property name="monster_id" value="53"/>
    </properties>
   </object>
-  <object id="19" name="To Pretty Island" type="warp" x="5440" y="480" width="32" height="32">
+  <object name="To Pretty Island" type="warp" x="5440" y="480" width="32" height="32">
    <properties>
     <property name="dest_map" value="062-1"/>
     <property name="dest_tile_x" value="44"/>
     <property name="dest_tile_y" value="97"/>
    </properties>
   </object>
-  <object id="20" name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="5440" y="480" width="32" height="32"/>
-  <object id="21" name="To Kingdom Island" type="warp" x="2624" y="640" width="32" height="32">
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="5440" y="480" width="32" height="32"/>
+  <object name="To Kingdom Island" type="warp" x="2624" y="640" width="32" height="32">
    <properties>
     <property name="dest_map" value="064-1"/>
     <property name="dest_tile_x" value="49"/>
     <property name="dest_tile_y" value="174"/>
    </properties>
   </object>
-  <object id="22" name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="2624" y="640" width="32" height="32"/>
-  <object id="23" name="Duck" type="spawn" x="0" y="0">
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="2624" y="640" width="32" height="32"/>
+  <object name="Duck" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="30"/>
@@ -1378,7 +1378,7 @@
     <property name="monster_id" value="1048"/>
    </properties>
   </object>
-  <object id="24" name="GreenFairy" type="spawn" x="0" y="0">
+  <object name="GreenFairy" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
@@ -1386,7 +1386,7 @@
     <property name="monster_id" value="1181"/>
    </properties>
   </object>
-  <object id="25" name="RedFairy" type="spawn" x="0" y="0">
+  <object name="RedFairy" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
@@ -1394,7 +1394,7 @@
     <property name="monster_id" value="1159"/>
    </properties>
   </object>
-  <object id="26" name="BlueFairy" type="spawn" x="0" y="0">
+  <object name="BlueFairy" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
@@ -1402,7 +1402,7 @@
     <property name="monster_id" value="1158"/>
    </properties>
   </object>
-  <object id="27" name="Tritan" type="spawn" x="0" y="0">
+  <object name="Tritan" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="5"/>
@@ -1410,7 +1410,7 @@
     <property name="monster_id" value="1173"/>
    </properties>
   </object>
-  <object id="28" name="GenerousSpiky" type="spawn" x="0" y="0">
+  <object name="GenerousSpiky" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="120000"/>
     <property name="eA_spawn" value="1"/>
@@ -1418,5 +1418,13 @@
     <property name="monster_id" value="1143"/>
    </properties>
   </object>
+  <object name="Secret Insland" type="warp" x="3296" y="672" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="067-1"/>
+    <property name="dest_tile_x" value="164"/>
+    <property name="dest_tile_y" value="105"/>
+   </properties>
+  </object>
+  <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="3296" y="672" width="32" height="32"/>
  </objectgroup>
 </map>
