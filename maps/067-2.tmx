@@ -626,7 +626,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer name="Collision" width="150" height="150" visible="0">
+ <layer name="Collision" width="150" height="150">
   <data encoding="csv">
 2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
 2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
@@ -781,11 +781,67 @@
 </data>
  </layer>
  <objectgroup name="Objects">
-  <object name="To Outside" type="warp" x="2240" y="2496" width="32" height="32">
+  <object name="To Outside" type="warp" x="2240" y="2496" width="64" height="32">
    <properties>
     <property name="dest_map" value="067-1"/>
     <property name="dest_tile_x" value="94"/>
     <property name="dest_tile_y" value="89"/>
+   </properties>
+  </object>
+  <object name="LavaSlime" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_death" value="4000"/>
+    <property name="eA_spawn" value="12000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1132"/>
+   </properties>
+  </object>
+  <object name="FireSkullLord" type="spawn" x="2528" y="2024" width="48" height="40">
+   <properties>
+    <property name="eA_death" value="4000"/>
+    <property name="eA_spawn" value="12000"/>
+    <property name="max_beings" value="3"/>
+    <property name="monster_id" value="1146"/>
+   </properties>
+  </object>
+  <object name="FireSkullLord" type="spawn" x="1968" y="2024" width="48" height="40">
+   <properties>
+    <property name="eA_death" value="4000"/>
+    <property name="eA_spawn" value="12000"/>
+    <property name="max_beings" value="3"/>
+    <property name="monster_id" value="1146"/>
+   </properties>
+  </object>
+  <object name="FireSkullLord" type="spawn" x="1984" y="1352" width="48" height="40">
+   <properties>
+    <property name="eA_death" value="4000"/>
+    <property name="eA_spawn" value="12000"/>
+    <property name="max_beings" value="3"/>
+    <property name="monster_id" value="1146"/>
+   </properties>
+  </object>
+  <object name="FireSkullLord" type="spawn" x="2512" y="1344" width="48" height="40">
+   <properties>
+    <property name="eA_death" value="4000"/>
+    <property name="eA_spawn" value="12000"/>
+    <property name="max_beings" value="3"/>
+    <property name="monster_id" value="1146"/>
+   </properties>
+  </object>
+  <object name="FireSkullLord" type="spawn" x="2248" y="1888" width="48" height="40">
+   <properties>
+    <property name="eA_death" value="4000"/>
+    <property name="eA_spawn" value="12000"/>
+    <property name="max_beings" value="3"/>
+    <property name="monster_id" value="1146"/>
+   </properties>
+  </object>
+  <object name="GoldenSkull" type="spawn" x="2216" y="1416" width="112" height="88">
+   <properties>
+    <property name="eA_death" value="4000"/>
+    <property name="eA_spawn" value="12000"/>
+    <property name="max_beings" value="1"/>
+    <property name="monster_id" value="1227"/>
    </properties>
   </object>
  </objectgroup>

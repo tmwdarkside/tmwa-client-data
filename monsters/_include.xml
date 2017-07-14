@@ -143,6 +143,7 @@
   <include name="monsters/monster1144_Assassin.xml"/>
   <include name="monsters/monster1145_TerraniteMask.xml"/>
   <include name="monsters/monster1146_FireSkullLord.xml"/>
+  <include name="monsters/monster1227_GoldenSkull.xml"/>
   <include name="monsters/monster1147_SnakeLord.xml"/>
   <include name="monsters/monster1148_IceSnake.xml"/>
   <include name="monsters/monster1149_IceScorpion.xml"/>
