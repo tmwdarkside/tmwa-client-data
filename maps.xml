@@ -92,6 +92,10 @@
   <map name="066-1.tmx">
     <atlas name="lost"/>
   </map>
+  <!-- Secret Island-->
+  <map name="067-1.tmx">
+    <atlas name="secretisland"/>
+  </map>
   <!-- Dark Woodland -->
   <map name="1007-1.tmx">
     <atlas name="darkwoodland"/>
