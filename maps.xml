@@ -713,6 +713,19 @@
     <file name="graphics/tiles/vigie.png"/>
     <file name="graphics/tiles/warp_gates.png"/>
   </atlas>
+  <!-- secretisland -->
+  <atlas name="secretisland">
+    <file name="graphics/tiles/woodland_ground.png"/>
+    <file name="graphics/tiles/woodland_ground2.png"/>
+    <file name="graphics/tiles/woodland_village.png"/>
+    <file name="graphics/tiles/woodland_village_x2.png"/>
+    <file name="graphics/tiles/woodland_x2.png"/>
+    <file name="graphics/tiles/woodland_x3.png"/>
+    <file name="graphics/tiles/woodland_x4.png"/>
+    <file name="graphics/tiles/woodland_x5.png"/>
+    <file name="graphics/tiles/woodland_x8.png"/>
+    <file name="graphics/tiles/warp_gates.png"/>
+  </atlas>
   <!-- nonameisland -->
   <atlas name="noname">
     <file name="graphics/tiles/forest.png"/>
