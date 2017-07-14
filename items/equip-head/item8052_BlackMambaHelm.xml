@@ -10,7 +10,7 @@
         image="equipment/head/black-mamba-helm.png"
         name="Black Mamba Helm"
         description="A sleek dark helmet."
-        effect="Heal +100, Def +36, M. Bonus -36, Agi +5."
+        effect="Heal +120, Def +36, M. Bonus -36, Agi +10."
         type="equip-head"
         weight="90"
         sellProtected="true">

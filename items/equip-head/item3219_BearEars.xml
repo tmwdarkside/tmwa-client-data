@@ -10,7 +10,7 @@
     image="equipment/head/armor-head-orelhas-urso.png"
     name="Bear Ears"
     description="A pair of cute little ears."
-    effect="Heal +100, Def +36, M. Bonus -36, Str +5."
+    effect="Heal +120, Def +36, M. Bonus -36, Str +10."
     type="equip-head"
     weight="90">
     <sprite>equipment/head/head-orelhas-urso.xml</sprite>

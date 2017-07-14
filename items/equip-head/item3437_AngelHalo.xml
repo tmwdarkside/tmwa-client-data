@@ -10,7 +10,7 @@
     image="equipment/head/armor-head-aureola.png"
     name="Angel Halo"
     description="For you to disguise yourself as an angel."
-    effect="Heal +100, Def +18, M. Bonus +36, Int +5."
+    effect="Heal +120, Def +18, M. Bonus +36, Int +10."
     type="equip-head"
     weight="90">
     <sprite>equipment/head/head-aureola.xml</sprite>
