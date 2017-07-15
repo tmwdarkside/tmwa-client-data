@@ -10,7 +10,7 @@
         image="equipment/head/gladiatorhelm.png"
         name="Gladiator Helm"
         description="A Gladiator's Helmet"
-        effect="Heal +120, Def +45, M. Def +25, Str +10, M. Attack -30."
+        effect="Heal +120, Def +45, M. Def +10, Str +10, M. Attack -30."
         type="equip-head"
         weight="800">
         <sprite>equipment/head/gladiator-helm.xml</sprite>

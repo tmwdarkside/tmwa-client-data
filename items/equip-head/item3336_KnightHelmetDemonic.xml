@@ -10,7 +10,7 @@
     image="equipment/head/armor-head-capacete-cavaleiro-demoniaco.png"
     name="Knight Helmet Demonic"
     description="A knight helmet demonic."
-    effect="Heal +120, Def +45, M. Def +25, Str +10, M. Attack -30."
+    effect="Heal +120, Def +45, M. Def +10, Str +10, M. Attack -30."
     type="equip-head"
     weight="800">
     <sprite gender="male">equipment/head/capacete-cavaleiro-demoniaco-male.xml</sprite>

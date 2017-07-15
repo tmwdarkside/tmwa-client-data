@@ -10,7 +10,7 @@
     image="equipment/head/armor-head-mascara-morte.png"
     name="Death Mask"
     description="Death mask."
-    effect="Heal +120, M. Bonus +30, Def +45, M. Def +25, Int +10"
+    effect="Heal +120, M. Bonus +30, Def +45, M. Def +10, Int +10."
     type="equip-head"
     weight="500">
     <sprite>equipment/head/head-mascara-morte.xml</sprite>

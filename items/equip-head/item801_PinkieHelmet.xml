@@ -7,7 +7,7 @@
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
   <item id="801" image="equipment/head/pinkie-helmet.png" name="Pinkie Helmet" description="A helmet of Pinkie warriors." effect="HP +120, Int +10, Luck +10, Def +10, M. Attack 20" type="equip-head" weight="800" sellProtected="true">
-    <sprite gender="unisex">equipme0t/head/pinkie-helmet.xml</sprite>
+    <sprite gender="unisex">equipment/head/pinkie-helmet.xml</sprite>
     <sprite gender="female">equipment/head/pinkie-helmet-female.xml</sprite>
     <replace sprite="hair">
       <item from="-6" to="-1"/>

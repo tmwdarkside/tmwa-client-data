@@ -10,7 +10,7 @@
     image="equipment/head/armor-head-capacete-cavaleiro-negro.png"
     name="Black Knight Helmet"
     description="A black knight helmet."
-    effect="Heal +120, Def +45, M. Def +25, Str +10, M. Attack -30."
+    effect="Heal +120, Def +45, M. Def +10, Str +10, M. Attack -30."
     type="equip-head"
     weight="800">
     <sprite gender="male">equipment/head/capacete-cavaleiro-negro-male.xml</sprite>
