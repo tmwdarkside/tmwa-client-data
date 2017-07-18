@@ -10,7 +10,7 @@
     image="equipment/head/armor-head-mascara-corey.png"
     name="Corey Mask"
     description="For you to shake this Halloween."
-    effect="Heal +100, Def +18, M. Bonus +36, M. Def +300, Int +5."
+    effect="Heal +100, Def +18, M. Bonus +36, Int +5."
     type="equip-head"
     weight="90">
     <sprite>equipment/head/mascara-corey.xml</sprite>

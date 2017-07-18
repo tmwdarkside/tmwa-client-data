@@ -10,13 +10,11 @@
         image="equipment/legs/black-mamba-pants.png"
         name="Black Mamba Pants"
         description="Dark sleek pants."
-        effect="M. Attack -1"
+        effect="Agi +1, Def +8, M. Attack -1"
         type="equip-legs"
-        defense="8"
-        agi="1"
         weight="60"
         sellProtected="true">
-        <sprite gender="male">equipment/legs/black-mamba-pants-male.xml</sprite>
-        <sprite gender="female">equipment/legs/black-mamba-pants-female.xml</sprite>
+    <sprite gender="unisex">equipment/legs/blackmambapants.xml</sprite>
+    <sprite gender="female">equipment/legs/blackmambapants-female.xml</sprite>
     </item>
 </items>
