@@ -6,7 +6,7 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
-  <item id="766" image="equipment/head/terranitehelm.png" name="Terranite Helmet" description="A magical helmet made out of semi-polished granite that was enchanted to be very light. Great for PVP on the battlefield." effect="Def +20, M. Defense +20" type="equip-head" sellProtected="true">
+  <item id="766" image="equipment/head/terranitehelm.png" name="Terranite Helmet" description="A magical helmet made out of semi-polished granite that was enchanted to be very light. Great for PVP on the battlefield." effect="Def +35, M. Defense +20" type="equip-head" sellProtected="true">
     <sprite gender="unisex">equipment/head/terranitehelm.xml</sprite>
     <sprite gender="female">equipment/head/terranitehelm-female.xml</sprite>
     <replace sprite="hair">
