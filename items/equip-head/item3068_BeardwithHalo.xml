@@ -11,7 +11,7 @@
     name="Beard with Halo"
     description="For you to disguise yourself as an angel."
     effect="HP +120, Int +15, Def +45, M. Def +5, M. Attack +30."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/head-aureola-barba.xml</sprite>
   </item>
 </items>

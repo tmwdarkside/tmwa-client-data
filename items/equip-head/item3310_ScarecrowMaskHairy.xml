@@ -11,7 +11,7 @@
     name="Scarecrow Mask Hairy"
     description="A scarecrow that usually drives off crows, but can become very dangerous."
     effect="HP +120, Def +45, Dex +10, Luck +10."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/mascara-espantalho-cabelo.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

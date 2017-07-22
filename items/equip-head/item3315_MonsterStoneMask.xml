@@ -11,7 +11,7 @@
     name="Monster Stone Mask"
     description="Stone monster, who lives in mountainous regions and is hardly seen."
     effect="HP +120, Def +45, M. Def +5, M. Attack -30, Str +10."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/mascara-monstro-pedra.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

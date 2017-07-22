@@ -11,7 +11,7 @@
     name="Bear Ears"
     description="A pair of cute little ears."
     effect="HP +120, Def +45, M. Attack -30, M. Def +10, Str +10."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/head-orelhas-urso.xml</sprite>
   </item>
 </items>

@@ -11,7 +11,7 @@
     name="Flaming Mask"
     description="Flaming mask used by powerful necromancers."
     effect="HP +120, Int +15, Def +45, M. Def +5, M. Attack +30."
-    type="equip-head">
+    type="equip-head" weight="500">
     <sprite>equipment/head/head-mascara-flamejante.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

@@ -10,7 +10,7 @@
         image="equipment/head/unsilvered-crusadehelm.png"
         name="Unsilvered Crusade Helmet"
         description="A crusade helmet that hasn't yet been infused with silver."
-        effect="Heal +120, Def +45, M. Def +10, M. Attack -30, Str +10."
+        effect="HP +120, Def +45, M. Def +10, M. Attack -30, Str +10."
         type="equip-head"
         weight="800">
         <sprite>equipment/head/unsilvered-crusadehelm.xml</sprite>

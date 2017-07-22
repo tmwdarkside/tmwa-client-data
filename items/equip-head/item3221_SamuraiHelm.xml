@@ -11,7 +11,7 @@
     name="Samurai Helm"
     description="Helm used by those who follow the Bushido path."
     effect="HP +120, Def +45, M. Attack -30, M. Def +10, Str +10."
-    type="equip-head">
+    type="equip-head" weight="800">
     <sprite>equipment/head/head-elmo-samurai.xml</sprite>
   </item>
 </items>

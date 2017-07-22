@@ -11,7 +11,7 @@
     name="Green Embroidered Cap"
     description="A green cap embroidered with the letter L"
     effect="HP +120, Dex +10, Def +45, M. Def +5."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/head-bordado-l.xml</sprite>
   </item>
 </items>

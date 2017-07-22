@@ -11,7 +11,7 @@
     name="Yellow Embroidered Cap"
     description="A yellow cap embroidered with the letter F."
     effect="HP +120, Agi +10, Def +45, M. Def +5."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/head-bordado-f.xml</sprite>
   </item>
 </items>

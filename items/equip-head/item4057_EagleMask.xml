@@ -11,7 +11,7 @@
     name="Eagle Mask"
     description="An Eagle Mask."
     effect="HP +120, Def +45, M. Def +5, Agi +10."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/head-mask-aguia.xml</sprite>
   </item>
 </items>

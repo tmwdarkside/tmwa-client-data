@@ -11,7 +11,7 @@
     name="Faces Mask"
     description="Mask that gains form based on the emotional state of the person."
     effect="HP +120, Def +45, M. Def +5, M. Attack +30, Int +15."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/mascara-faces.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

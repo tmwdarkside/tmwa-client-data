@@ -12,7 +12,7 @@
         description="A sleek dark helmet."
         effect="Heal +120, Def +45, Agi +10."
         type="equip-head"
-        sellProtected="true">
+        sellProtected="true" weight="90">
         <sprite>equipment/head/black-mamba-helm.xml</sprite>
     </item>
 </items>

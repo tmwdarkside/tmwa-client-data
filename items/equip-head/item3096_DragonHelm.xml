@@ -11,7 +11,7 @@
     name="Dragon Helm"
     description="Unbreakable helm made of ancestral dragon bones."
     effect="HP +120, Def +45, M. Def +10, Str +10, M. Attack -30."
-    type="equip-head">
+    type="equip-head" weight="800">
     <sprite>equipment/head/head-greendragon.xml</sprite>
   </item>
 </items>

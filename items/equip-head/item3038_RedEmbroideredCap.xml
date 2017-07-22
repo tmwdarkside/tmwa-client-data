@@ -11,7 +11,7 @@
     name="Red Embroidered Cap"
     description="A red cap embroidered with the letter M."
     effect="HP +120, Str +10, Def +45, M. Def +5, M. Attack -30."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/head-bordado-m.xml</sprite>
   </item>
 </items>

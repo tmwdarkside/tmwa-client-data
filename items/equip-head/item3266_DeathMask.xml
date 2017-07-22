@@ -11,7 +11,7 @@
     name="Death Mask"
     description="Death mask."
     effect="HP +120, M. Attack +30, Def +45, M. Def +10, Int +15."
-    type="equip-head">
+    type="equip-head" weight="500">
     <sprite>equipment/head/head-mascara-morte.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

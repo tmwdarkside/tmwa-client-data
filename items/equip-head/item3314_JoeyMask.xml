@@ -11,7 +11,7 @@
     name="Joey Mask"
     description="For you to shake."
     effect="HP +120, Def +45, Dex +10, Luck +10."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/mascara-joey.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

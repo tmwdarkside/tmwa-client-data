@@ -11,7 +11,7 @@
     name="Pharaoh's Crown"
     description="Full Pharaoh's crown, legend says his eyes shine like jade as he wears it."
     effect="HP +120, Def +45, M. Attack -30, M. Def +10, Str +10."
-    type="equip-head">
+    type="equip-head" weight="800">
     <sprite>equipment/head/head-coroa-farao.xml</sprite>
   </item>
 </items>

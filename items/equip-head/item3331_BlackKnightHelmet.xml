@@ -11,7 +11,7 @@
     name="Black Knight Helmet"
     description="A black knight helmet."
     effect="Heal +120, Def +45, M. Def +10, M. Attack -30, Str +10."
-    type="equip-head">
+    type="equip-head" weight="500">
     <sprite gender="male">equipment/head/capacete-cavaleiro-negro-male.xml</sprite>
     <sprite gender="female">equipment/head/capacete-cavaleiro-negro-female.xml</sprite>
   </item>

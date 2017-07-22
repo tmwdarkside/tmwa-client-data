@@ -6,7 +6,7 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
-  <item id="646" image="equipment/head/crown.png" name="Crown" description="A jewel embossed crown fit for any ruler." effect="HP +120, Str +5, Agi 5, Vit +5, Dex +5, Luck +5." type="equip-head" sellProtected="true">
+  <item id="646" image="equipment/head/crown.png" name="Crown" description="A jewel embossed crown fit for any ruler." effect="HP +120, Str +5, Agi 5, Vit +5, Dex +5, Luck +5." weight="1000" type="equip-head" sellProtected="true">
     <sprite gender="unisex">equipment/head/crown.xml</sprite>
     <sprite gender="female">equipment/head/crown-female.xml</sprite>
     <replace sprite="hair">

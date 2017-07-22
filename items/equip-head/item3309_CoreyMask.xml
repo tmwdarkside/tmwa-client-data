@@ -11,7 +11,7 @@
     name="Corey Mask"
     description="For you to shake this Halloween."
     effect="HP +120, Def +45, M. Def +5, M. Attack +30, Int +15."
-    type="equip-head">
+    type="equip-head" weight="90">
     <sprite>equipment/head/mascara-corey.xml</sprite>
   </item>
 </items>
