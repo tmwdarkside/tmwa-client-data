@@ -10,9 +10,8 @@
     image="equipment/head/armor-head-mascara-frank.png"
     name="Frank Mask"
     description="It is green and scary, but if you are not owed in his shop, there is nothing to fear!"
-    effect="Heal +100, Def +36, M. Bonus -36, Str +5."
-    type="equip-head"
-    weight="90">
+    effect="HP +120, Def +45, M. Def +5, M. Attack -30, Str +10."
+    type="equip-head">
     <sprite>equipment/head/mascara-frank.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

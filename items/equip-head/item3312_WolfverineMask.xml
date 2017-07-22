@@ -10,9 +10,8 @@
     image="equipment/head/armor-head-mascara-garras.png"
     name="Wolfverine Mask"
     description="Mask of your favorite claw hero."
-    effect="Heal +120, Def +36, M. Bonus -36, Str +10."
-    type="equip-head"
-    weight="90">
+    effect="HP +120, Def +45, M. Def +5, M. Attack -30, Str +10."
+    type="equip-head">
     <sprite>equipment/head/mascara-garras.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

@@ -10,7 +10,7 @@
     image="equipment/head/armor-head-mascara-alma-triste.png"
     name="Sad Soul Mask"
     description="A sad soul in its eternal solitude."
-    effect="Heal +120, Def +36, M. Bonus -36, Str +10."
+    effect="HP +120, Def +45, M. Attack -30, M. Def +5, Str +10."
     type="equip-head"
     weight="90">
     <sprite>equipment/head/mascara-alma-triste.xml</sprite>

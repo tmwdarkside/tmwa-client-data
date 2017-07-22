@@ -10,9 +10,8 @@
         image="equipment/head/majorhelm.png"
         name="Major Helmet"
         description="A Helmet worn by a major."
-        effect="Heal +120, Def +45, M. Def +10, Str +10, M. Attack -30."
-        type="equip-head"
-        weight="800">
+        effect="Heal +120, Def +45, M. Def +10, M. Attack -30, Str +10."
+        type="equip-head">
         <sprite>equipment/head/majorhelmet.xml</sprite>
     </item>
 </items>

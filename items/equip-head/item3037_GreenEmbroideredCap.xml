@@ -10,9 +10,8 @@
     image="equipment/head/armor-head-bordado-l.png"
     name="Green Embroidered Cap"
     description="A green cap embroidered with the letter L"
-    effect="Heal +100, Def +36, M. Bonus -36, Dex +5."
-    type="equip-head"
-    weight="90">
+    effect="HP +120, Dex +10, Def +45, M. Def +5."
+    type="equip-head">
     <sprite>equipment/head/head-bordado-l.xml</sprite>
   </item>
 </items>

@@ -11,8 +11,7 @@
         name="Ninja Mask"
         description="A Mask of the Ninja."
         effect="Heal +120, Def +45, M. Def +10, Agi +10."
-        type="equip-head"
-        weight="800">
+        type="equip-head">
         <sprite>equipment/head/ninjamask.xml</sprite>
     </item>
 </items>

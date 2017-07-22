@@ -10,9 +10,8 @@
     image="equipment/head/armor-head-mascara-ninja.png"
     name="Ninja Mask II"
     description="The mask for a ninja."
-    effect="Heal +100, Def +36, M. Bonus -36, Agi +5."
-    type="equip-head"
-    weight="90">
+    effect="HP +120, Def +45, M. Def +5, Agi +10."
+    type="equip-head">
     <sprite>equipment/head/mascara-ninja.xml</sprite>
   </item>
 </items>

@@ -10,9 +10,8 @@
     image="equipment/head/armor-head-mascara-jason.png"
     name="Jason Mask"
     description="For you to terrorize all the year."
-    effect="Heal +100, Def +18, M. Bonus +36, Int +5."
-    type="equip-head"
-    weight="90">
+    effect="HP +120, Def +45, M. Def +5, M. Attack +30, Int +15."
+    type="equip-head">
     <sprite>equipment/head/mascara-jason.xml</sprite>
   </item>
 </items>

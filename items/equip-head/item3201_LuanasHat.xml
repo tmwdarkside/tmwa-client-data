@@ -6,7 +6,7 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
-  <item id="3201" image="equipment/head/luanas-witch-hat.png" name="Luanas Hat" effect="HP +100, Def + 25, M. Attack +5, Int +15" description="Big and pointy. It looks a bit out of place." type="equip-head" weight="50" sellProtected="true">
+  <item id="3201" image="equipment/head/luanas-witch-hat.png" name="Luanas Hat" effect="HP +120, Int +15, Def +45, M. Def +10, M. Attack +30." description="Big and pointy. It looks a bit out of place." type="equip-head" sellProtected="true">
     <sprite gender="unisex">equipment/head/luanas-witch-hat.xml|#444444,777777,aaaaaa</sprite>
     <sprite gender="female">equipment/head/luanas-witch-hat.xml|#444444,777777,aaaaaa</sprite>
     <replace sprite="hair">

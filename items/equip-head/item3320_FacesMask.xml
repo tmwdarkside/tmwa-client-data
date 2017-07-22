@@ -10,9 +10,8 @@
     image="equipment/head/armor-head-mascara-faces.png"
     name="Faces Mask"
     description="Mask that gains form based on the emotional state of the person."
-    effect="Heal +100, Def +18, M. Bonus +36, Int +5."
-    type="equip-head"
-    weight="90">
+    effect="HP +120, Def +45, M. Def +5, M. Attack +30, Int +15."
+    type="equip-head">
     <sprite>equipment/head/mascara-faces.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

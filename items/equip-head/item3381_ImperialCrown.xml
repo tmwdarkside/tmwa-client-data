@@ -10,9 +10,8 @@
     image="equipment/head/armor-head-coroa-imperial.png"
     name="Imperial Crown"
     description="The crown of the great emperor of the World of Mana."
-    effect="Heal +120, Def +45, M. Def +10, Str +10, M. Attack -30."
-    type="equip-head"
-    weight="800">
+    effect="Heal +120, Def +45, M. Def +10, M. Attack -30, Str +10."
+    type="equip-head">
     <sprite>equipment/head/coroa-imperial.xml</sprite>
   </item>
 </items>

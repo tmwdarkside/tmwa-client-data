@@ -10,9 +10,8 @@
     image="equipment/head/armor-head-mascara-ferro.png"
     name="Iron Mask"
     description="Iron mask with laser eyes."
-    effect="Heal +100, Def +36, M. Bonus -36, Str +5."
-    type="equip-head"
-    weight="90">
+    effect="HP +120, Def +45, M. Def +5, M. Attack -30, Str +10."
+    type="equip-head">
     <sprite>equipment/head/mascara-ferro.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

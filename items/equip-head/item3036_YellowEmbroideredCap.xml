@@ -10,9 +10,8 @@
     image="equipment/head/armor-head-bordado-f.png"
     name="Yellow Embroidered Cap"
     description="A yellow cap embroidered with the letter F."
-    effect="Heal +100, Def +36, M. Bonus -36, Agi +5."
-    type="equip-head"
-    weight="90">
+    effect="HP +120, Agi +10, Def +45, M. Def +5."
+    type="equip-head">
     <sprite>equipment/head/head-bordado-f.xml</sprite>
   </item>
 </items>

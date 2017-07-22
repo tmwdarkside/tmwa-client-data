@@ -10,7 +10,7 @@
         image="equipment/head/vikinghelm.png"
         name="Viking Helmet"
         description="A Helmet thats seen battle long ago."
-        effect="Heal +120, Def +45, M. Def +10, Str +10, M. Attack -30."
+        effect="Heal +120, Def +45, M. Def +10, M. Attack -30, Str +10."
         type="equip-head"
         weight="800">
         <sprite>equipment/head/vikinghelm.xml</sprite>

@@ -10,9 +10,8 @@
     image="equipment/head/armor-head-mascara-espantalho.png"
     name="Scarecrow Mask"
     description="A scarecrow that usually drives off crows, but that can become very dangerous."
-    effect="Heal +100, Def +36, M. Bonus -36, Dex +5."
-    type="equip-head"
-    weight="90">
+    effect="HP +120, Def +45, M. Def +5, Agi +10."
+    type="equip-head">
     <sprite>equipment/head/mascara-espantalho.xml</sprite>
     <replace sprite="hair">
       <item to="-1"/>

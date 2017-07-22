@@ -6,13 +6,5 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
-    <item id="8052"
-        image="equipment/head/black-mamba-helm.png"
-        name="Black Mamba Helm"
-        description="A sleek dark helmet."
-        effect="Heal +120, Def +45, Agi +10."
-        type="equip-head"
-        sellProtected="true">
-        <sprite>equipment/head/black-mamba-helm.xml</sprite>
-    </item>
+  <item id="4050" image="use/food/ramen.png" name="Ramen" description="Muahaha!! We have Ramen Soap!!" type="usable" hp="200" weight="10"/>
 </items>
