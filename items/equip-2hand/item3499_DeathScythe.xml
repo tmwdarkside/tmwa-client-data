@@ -10,11 +10,10 @@
     image="equipment/weapon/weapon-polearm-foice-morte.png"
     name="Death Scythe"
     description="The same weapon wielded by the messengers of the underworld."
-    effect="Attack +200, Str +10, Range: 1"
-    level="60"
+    effect="Attack +50, M. Attack +20, Range: 3"
     type="equip-2hand"
-    weapon-type="polearm"
-    weight="1200">
+    attack-range="3"
+    weight="500">
     <sprite>equipment/weapons/weapon-foice-morte.xml</sprite>
   </item>
 </items>

@@ -10,7 +10,7 @@
         image="equipment/weapon/mace-kanabo.png"
         name="Kanabo"
         description="A kanabo."
-        effect="Attack +200, Agi +10, Range: 1"
+        effect="HP +120, Attack +200, Str +30, Max HP Rate 10, Critical Hit Bonus 10, Int 0."
         type="equip-1hand"
         weapon-type="knife"
         attack-action="attack"
