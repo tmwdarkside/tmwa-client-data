@@ -6,16 +6,17 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
-    <item id="8021"
-        image="equipment/weapon/mace-kanabo.png"
-        name="Kanabo"
-        description="A kanabo."
+    <item id="8077"
+        image="equipment/weapon/axe-singleblade.png"
+        name="Miere Axe"
+        description="A two-handed battleaxe."
         effect="Attack +200, Agi +10, Range: 1"
-        type="equip-2hand"
+        type="equip-1hand"
         weapon-type="knife"
-        attack-action="attack"
+        attack-action="attack_2hand"
         attack-range="1"
-        weight="500">
-        <sprite>equipment/weapons/kanabo.xml</sprite>
+        weight="500"
+        sellProtected="true">
+        <sprite>equipment/weapons/weapon-singleblade-axe.xml</sprite>
     </item>
 </items>

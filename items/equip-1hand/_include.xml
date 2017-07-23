@@ -21,4 +21,9 @@
   <include name="items/equip-1hand/item1201_Knife.xml"/>
   <include name="items/equip-1hand/item1215_ToySabre.xml"/>
   <include name="items/equip-1hand/item8022_Gladius.xml"/>
+  <include name="items/equip-1hand/item548_Halberd.xml"/>
+  <include name="items/equip-1hand/item588_BastardSword.xml"/>
+  <include name="items/equip-1hand/item594_Spear.xml"/>
+  <include name="items/equip-1hand/item8077_MiereAxe.xml"/>
+  <include name="items/equip-1hand/item8021_Kanabo.xml"/>
 </items>
