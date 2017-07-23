@@ -12,7 +12,7 @@
     description="A sad soul in its eternal solitude."
     effect="HP +120, Def +45, M. Attack -30, M. Def +5, Str +10."
     type="equip-head"
-    weight="90" weight="90">
+    weight="90">
     <sprite>equipment/head/mascara-alma-triste.xml</sprite>
   </item>
 </items>
