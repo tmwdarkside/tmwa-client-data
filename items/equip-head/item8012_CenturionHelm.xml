@@ -12,7 +12,7 @@
         description="A Centurion's Helmet."
         effect="Heal +120, Def +45, M. Def +10, M. Attack -30, Str +10."
         type="equip-head"
-        weight="800" weight="800">
+        weight="800">
         <sprite>equipment/head/centurionhelm.xml</sprite>
     </item>
 </items>
