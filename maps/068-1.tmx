@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="180" height="150" tilewidth="32" tileheight="32">
  <properties>
-  <property name="minimap" value="graphics/minimaps/065-1.png"/>
+  <property name="minimap" value=""/>
   <property name="music" value="despair.ogg"/>
   <property name="name" value="Assassins Island"/>
   <property name="overlay0image" value="graphics/images/ambient/clouds.png"/>
@@ -55,13 +55,6 @@
   </data>
  </layer>
  <objectgroup name="Objects">
-  <object name="To Assassin Cave" type="warp" x="2847.83" y="3105" width="32" height="32">
-   <properties>
-    <property name="dest_map" value=""/>
-    <property name="dest_tile_x" value=""/>
-    <property name="dest_tile_y" value=""/>
-   </properties>
-  </object>
   <object name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="1600" y="1536" width="32" height="32"/>
   <object name="Lost Island" type="warp" x="1600" y="1536" width="32" height="32">
    <properties>
