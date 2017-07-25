@@ -58,28 +58,28 @@
     <property name="dest_tile_y" value="20"/>
    </properties>
   </object>
-  <object name="Dark Blue Assassin" type="spawn" x="0" y="0">
+  <object name="DarkBlueAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1184"/>
    </properties>
   </object>
-  <object name="Yellow Assassin" type="spawn" x="0" y="0">
+  <object name="YellowAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="3"/>
     <property name="monster_id" value="1185"/>
    </properties>
   </object>
-  <object name="Light Blue Assassin" type="spawn" x="0" y="0">
+  <object name="LightBlueAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="3"/>
     <property name="monster_id" value="1186"/>
    </properties>
   </object>
-  <object name="Pink Assassin" type="spawn" x="0" y="0">
+  <object name="PinkAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="2"/>
@@ -113,7 +113,7 @@
     <property name="monster_id" value="53"/>
    </properties>
   </object>
-  <object name="Red Assassin" type="spawn" x="0" y="0">
+  <object name="RedAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_death" value="18000"/>
     <property name="eA_spawn" value="10000"/>
@@ -129,42 +129,42 @@
     <property name="monster_id" value="1144"/>
    </properties>
   </object>
-  <object name="Green Assassin" type="spawn" x="0" y="0">
+  <object name="GreenAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="4"/>
     <property name="monster_id" value="1183"/>
    </properties>
   </object>
-  <object name="Orange Assassin" type="spawn" x="0" y="0">
+  <object name="OrangeAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="3"/>
     <property name="monster_id" value="1189"/>
    </properties>
   </object>
-  <object name="Purple Assassin" type="spawn" x="0" y="0">
+  <object name="PurpleAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1190"/>
    </properties>
   </object>
-  <object name="Black Assassin" type="spawn" x="0" y="0">
+  <object name="BlackAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1188"/>
    </properties>
   </object>
-  <object name="Dark Green Assassin" type="spawn" x="0" y="0">
+  <object name="DarkGreenAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="18000"/>
     <property name="max_beings" value="2"/>
     <property name="monster_id" value="1191"/>
    </properties>
   </object>
-  <object name="Teal Assassin" type="spawn" x="0" y="0">
+  <object name="TealAssassin" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="18000"/>
     <property name="max_beings" value="2"/>
