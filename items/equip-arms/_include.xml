@@ -11,7 +11,7 @@
   <include name="items/equip-arms/item563_WinterGloves.xml"/>
   <include name="items/equip-arms/item585_ScarabArmlet.xml"/>
   <include name="items/equip-arms/item741_CottonGloves.xml"/>
-  <include name="items/equip-arms/item756_AssassinGloves.xml"/>
+  <include name="items/equip-arms/item756_RedAssassinGloves.xml"/>
   <include name="items/equip-arms/item794_BromenalGloves.xml"/>
   <include name="items/equip-arms/item868_SilkGloves.xml"/>
   <include name="items/equip-arms/item2160_RedCottonGloves.xml"/>
