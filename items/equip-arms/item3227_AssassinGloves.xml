@@ -8,7 +8,7 @@
   </its:rules>
   <item id="3227"
         image="equipment/hands/assassingloves.png|R:#eeeeee"
-        name="White Assassin Gloves"
+        name="Assassin Gloves"
         description="White gloves for a master assassin."
         effect="+5% Defense, +2 Agility"
         type="equip-arms"
