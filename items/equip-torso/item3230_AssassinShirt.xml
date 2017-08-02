@@ -9,7 +9,7 @@
   <item id="3230"
         image="equipment/chest/assassintop.png|R:#eeeeee"
         name="Assassin Shirt"
-        description="White shirt for a master assassin."
+        description="Shirt for a master assassin."
         effect="Def +10, Agi +10, M. Attack -5."
         type="equip-torso"
         weight="150"
