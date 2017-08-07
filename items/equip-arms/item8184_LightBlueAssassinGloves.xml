@@ -10,10 +10,9 @@
         image="equipment/hands/assassingloves.png|R:#16486e,498ec5,e4f2fc"
         name="Light Blue Assassin Gloves"
         description="Light Blue gloves for a master assassin."
-        effect="+5% Defense, +2 Agility"
+        effect="Def +5, Agi +5, M. Attack -5."
         type="equip-arms"
         weight="9"
-        defense="5"
         max-per-slot="1">
         <sprite gender="male">equipment/hands/assassin.xml|#16486e,498ec5,e4f2fc</sprite>
         <sprite gender="female">equipment/hands/assassin-female.xml|#16486e,498ec5,e4f2fc</sprite>

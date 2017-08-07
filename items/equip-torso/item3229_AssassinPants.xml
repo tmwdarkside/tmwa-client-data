@@ -10,7 +10,7 @@
         image="equipment/legs/assassinpants.png|R:#eeeeee"
         name="Assassin Pants"
         description="Pants for a master assassin."
-        effect="+5% Defense, M. Attack -5, Agi +8."
+        effect="Def +10, Agi +10, M. Attack -5."
         type="equip-legs"
         weight="20"
         max-per-slot="1">

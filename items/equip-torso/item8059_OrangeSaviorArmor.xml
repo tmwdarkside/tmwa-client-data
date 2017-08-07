@@ -10,7 +10,7 @@
         image="equipment/chest/savior-armor.png|W:#a06010,ff9030"
         name="Orange Savior Armor"
         description="Orange Savior Armor."
-        effect="Heal +120, Def +40, Dex +50, M. Attack -170."
+        effect="HP +120, Def +50, Dex +50, M. Attack -170."
         type="equip-torso"
         drawAfter="gloves"
         weight="2600"

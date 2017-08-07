@@ -10,10 +10,9 @@
         image="equipment/hands/assassingloves.png|R:#56002f,930050,fe70bd,feb7de,ffffff"
         name="Pink Assassin Gloves"
         description="Pink gloves for a master assassin."
-        effect="+5% Defense, +2 Agility"
+        effect="Def +5, Agi +5, M. Attack -5."
         type="equip-arms"
         weight="9"
-        defense="5"
         max-per-slot="1">
         <sprite gender="male">equipment/hands/assassin.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
         <sprite gender="female">equipment/hands/assassin-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>

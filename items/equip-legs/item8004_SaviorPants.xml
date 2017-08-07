@@ -10,9 +10,8 @@
         image="equipment/legs/saviorpants.png"
         name="Savior Pants"
         description="A Pair of matching pants for your cape."
-        effect="M. Attack -12"
+        effect="Def +10, Str +10, M. Attack -25."
         type="equip-legs"
-        defense="10"
         weight="60"
         sellProtected="true">
         <sprite gender="male">equipment/legs/saviorpants-male.xml</sprite>

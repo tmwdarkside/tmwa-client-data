@@ -10,8 +10,8 @@
         image="equipment/chest/assassintop.png|R:#eeeeee"
         name="Assassin Shirt"
         description="Shirt for a master assassin."
-        effect="Def +10, Agi +10, M. Attack -5."
-        type="equip-torso"
+        effect="HP +60, Def +10, Dex +40, Agi +25, M. Attack -5."
+	type="equip-torso"
         weight="150"
         max-per-slot="1">
         <sprite gender="male">equipment/chest/assassin.xml|#eeeeee</sprite>

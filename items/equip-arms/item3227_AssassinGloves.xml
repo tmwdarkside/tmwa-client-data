@@ -10,7 +10,7 @@
         image="equipment/hands/assassingloves.png|R:#eeeeee"
         name="Assassin Gloves"
         description="Gloves for a master assassin."
-        effect="+5% Defense, +2 Agility"
+        effect="Def +5, Agi +5, M. Attack -5."
         type="equip-arms"
         weight="9"
         defense="5"

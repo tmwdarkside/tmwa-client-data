@@ -10,7 +10,7 @@
     image="equipment/chest/armor-chest-armadura-cavaleiro-negro.png"
     name="Armor Knight Dark"
     description="Armor of a dark knight."
-    effect="Heal +150, Def +45, M. Attack -170."
+    effect="HP +120, Def +50, Dex +50, M. Attack -170."
     type="equip-torso"
     weight="1600">
     <sprite gender="male">equipment/chest/armadura-cavaleiro-negro-male.xml</sprite>

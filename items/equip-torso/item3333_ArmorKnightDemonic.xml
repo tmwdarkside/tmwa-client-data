@@ -10,7 +10,7 @@
     image="equipment/chest/armor-chest-armadura-cavaleiro-demoniaco.png"
     name="Armor Knight Demonic"
     description="Armor of a demonic knight."
-    effect="Heal +150, Def +45, M. Attack -170."
+    effect="HP +120, Def +50, Dex +50, M. Attack -170."
     type="equip-torso"
     weight="1600">
     <sprite gender="male">equipment/chest/armadura-cavaleiro-demoniaco-male.xml</sprite>

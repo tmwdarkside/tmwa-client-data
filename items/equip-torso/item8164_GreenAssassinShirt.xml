@@ -10,7 +10,7 @@
         image="equipment/chest/assassintop.png|R:#115511,22aa22,99dd99"
         name="Green Assassin Shirt"
         description="Green shirt for a master assassin."
-        effect="Def +10, Agi +10, M. Attack -5."
+        effect="HP +60, Def +10, Dex +40, Agi +25, M. Attack -5."
         type="equip-torso"
         weight="150"
         max-per-slot="1">

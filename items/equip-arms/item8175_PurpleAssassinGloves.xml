@@ -10,10 +10,9 @@
         image="equipment/hands/assassingloves.png|R:#4f0a76,8010c0,d699f7"
         name="Purple Assassin Gloves"
         description="Purple gloves for a master assassin."
-        effect="+5% Defense, +2 Agility"
+        effect="Def +5, Agi +5, M. Attack -5."
         type="equip-arms"
         weight="9"
-        defense="5"
         max-per-slot="1">
         <sprite gender="male">equipment/hands/assassin.xml|#4f0a76,8010c0,d699f7</sprite>
         <sprite gender="female">equipment/hands/assassin-female.xml|R:#4f0a76,8010c0,d699f7</sprite>

@@ -10,7 +10,7 @@
         image="equipment/chest/assassintop.png|R:#4f0a76,8010c0,d699f7"
         name="Purple Assassin Shirt"
         description="Purple shirt for a master assassin."
-        effect="Def +10, Agi +10, M. Attack -5."
+        effect="HP +60, Def +10, Dex +40, Agi +25, M. Attack -5."
         type="equip-torso"
         weight="150"
         max-per-slot="1">

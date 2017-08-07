@@ -10,7 +10,7 @@
         image="equipment/chest/black-mamba-armor.png"
         name="Black Mamba Armor"
         description="Strong and nimble armor."
-        effect="Heal +50, Def +30, Dex +25, Agi +5, M. Attack -37."
+        effect="HP +60, Def +10, Dex +40, Agi +25, M. Attack -5."
         type="equip-torso"
         weight="260"
         sellProtected="true">

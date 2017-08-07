@@ -10,7 +10,7 @@
         image="equipment/legs/black-mamba-pants.png"
         name="Black Mamba Pants"
         description="Dark sleek pants."
-        effect="Agi +1, Def +8, M. Attack -1"
+        effect="Def +10, Agi +10, M. Attack -5."
         type="equip-legs"
         weight="60"
         sellProtected="true">

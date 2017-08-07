@@ -10,10 +10,9 @@
         image="equipment/hands/assassingloves.png|R:#104010,208020,30c030"
         name="Dark Green Assassin Gloves"
         description="Dark Green gloves for a master assassin."
-        effect="+5% Defense, +2 Agility"
+        effect="Def +5, Agi +5, M. Attack -5."
         type="equip-arms"
         weight="9"
-        defense="5"
         max-per-slot="1">
         <sprite gender="male">equipment/hands/assassin.xml|#104010,208020,30c030</sprite>
         <sprite gender="female">equipment/hands/assassin-female.xml|#104010,208020,30c030</sprite>
