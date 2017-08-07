@@ -10,7 +10,7 @@
         image="equipment/charms/mecha-medallion.png"
         name="Mecha Medallion"
         description="This one is a powerfull medallion."
-        effect="Vit +40, Agi +25"
+        effect="Vit +50, Agi +20"
         type="equip-charm"
         weight="50"
         sellProtected="true">
