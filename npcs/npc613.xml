@@ -4,8 +4,8 @@
     <sprite>model/base.xml|#53202b,7f4f45,9e6a43,d09459,fcd3a1,fefffc;#2f312f,727471,a4a6a3,dad5f5;#3a3a3a,d5d5d5</sprite>
     <sprite>hairstyles/hairstyle05.xml|#53202b,7f4f45,9e6a43,d09459,fcd3a1,fefffc;#2f312f,727471,a4a6a3,dad5f5;#5b280a,994312,c55818,e46c28</sprite>
     <sprite>equipment/head/sunglasses.xml</sprite>
-    <sprite>equipment/chest/tanktop.xml</sprite>
-    <sprite>equipment/legs/blackjeans.xml</sprite>
+    <sprite>equipment/chest/cotton.xml</sprite>
+    <sprite>equipment/legs/silkpants.xml</sprite>
     <sprite>equipment/feet/assassin-boots.xml</sprite>
   </npc>
 </npcs>
