@@ -6,7 +6,7 @@
       <property name="output" value="1"/>
       <property name="position-x" min="-10" max="10"/>
       <property name="position-y" min="-10" max="10"/>
-      <property name="gravity" value="-2"/>
+      <property name="gravity" value="-1"/>
       <property name="momentum" value="0.3"/>
       <animation imageset="graphics/particles/electricity.particle.png|W:#FFFF00" width="15" height="15">
         <sequence start="0" end="7" delay="20"/>
