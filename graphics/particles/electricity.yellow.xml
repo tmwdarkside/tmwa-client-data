@@ -4,8 +4,8 @@
     <emitter>
        <property name="lifetime" min="40" max="100"/>
       <property name="output" value="1"/>
-      <property name="position-x" min="-10" max="10"/>
-      <property name="position-y" min="-10" max="10"/>
+      <property name="position-x" min="-14" max="14"/>
+      <property name="position-y" min="-14" max="14"/>
       <property name="gravity" value="-1"/>
       <property name="momentum" value="0.3"/>
       <animation imageset="graphics/particles/electricity.particle.png|W:#FFFF00" width="15" height="15">
