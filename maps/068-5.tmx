@@ -123,46 +123,53 @@
     <property name="monster_id" value="1137"/>
    </properties>
   </object>
-  <object name="UndeadWitch" type="spawn" x="2184" y="3376" width="240" height="232">
+  <object name="UndeadWitch" type="spawn" x="2184" y="3376" width="240" height="232" visible="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1116"/>
    </properties>
   </object>
-  <object name="FeyElement" type="spawn" x="912" y="784" width="4760" height="2864">
+  <object name="FeyElement" type="spawn" x="912" y="784" width="4760" height="2864" visible="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="10"/>
     <property name="monster_id" value="1086"/>
    </properties>
   </object>
-  <object name="DemonicSpirit" type="spawn" x="912" y="784" width="4760" height="2864">
+  <object name="DemonicSpirit" type="spawn" x="912" y="784" width="4760" height="2864" visible="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="10"/>
     <property name="monster_id" value="1101"/>
    </properties>
   </object>
-  <object name="Scythe" type="spawn" x="912" y="784" width="4760" height="2864">
+  <object name="Scythe" type="spawn" x="912" y="784" width="4760" height="2864" visible="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="10"/>
     <property name="monster_id" value="1069"/>
    </properties>
   </object>
-  <object name="Stalker" type="spawn" x="912" y="784" width="4760" height="2864">
+  <object name="Stalker" type="spawn" x="912" y="784" width="4760" height="2864" visible="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="10"/>
     <property name="monster_id" value="1075"/>
    </properties>
   </object>
-  <object name="LavaSlime" type="spawn" x="912" y="784" width="4760" height="2864">
+  <object name="LavaSlime" type="spawn" x="912" y="784" width="4760" height="2864" visible="0">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="10"/>
     <property name="monster_id" value="1132"/>
+   </properties>
+  </object>
+  <object name="GreenBlinkingEvil" type="spawn" x="672" y="768" width="4824" height="1544">
+   <properties>
+    <property name="eA_spawn" value="10000"/>
+    <property name="max_beings" value="10"/>
+    <property name="monster_id" value="1160"/>
    </properties>
   </object>
  </objectgroup>
