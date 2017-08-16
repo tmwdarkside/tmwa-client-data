@@ -2,7 +2,7 @@
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="140" tilewidth="32" tileheight="32">
  <properties>
   <property name="minimap" value=""/>
-  <property name="name" value="Hades"/>
+  <property name="name" value="Hell Cave"/>
   <property name="overlay0image" value="graphics/images/ambient/calor2.png"/>
   <property name="overlay0parallax" value="1.0"/>
   <property name="overlay0scrollY" value="-0.1"/>
@@ -101,5 +101,13 @@
    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
   </data>
  </layer>
- <objectgroup color="#ff0000" name="objects" visible="0"/>
+ <objectgroup color="#ff0000" name="objects">
+  <object name="Assassins Cave" type="warp" x="5568" y="3488" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="068-3"/>
+    <property name="dest_tile_x" value="29"/>
+    <property name="dest_tile_y" value="105"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>

@@ -176,11 +176,11 @@
     <property name="monster_id" value="1192"/>
    </properties>
   </object>
-  <object name="Assassins Island" type="warp" x="2848" y="3104" width="32" height="32">
+  <object name="Assassins Cave" type="warp" x="2848" y="3104" width="32" height="32">
    <properties>
-    <property name="dest_map" value="068-2"/>
-    <property name="dest_tile_x" value="69"/>
-    <property name="dest_tile_y" value="27"/>
+    <property name="dest_map" value="068-3"/>
+    <property name="dest_tile_x" value="77"/>
+    <property name="dest_tile_y" value="118"/>
    </properties>
   </object>
  </objectgroup>
