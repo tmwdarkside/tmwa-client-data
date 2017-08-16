@@ -195,4 +195,5 @@
   <include name="monsters/monster1199_Bastax.xml"/>
   <include name="monsters/monster1200_LordScorpiuz.xml"/>
   <include name="monsters/monster1224_GoldenScorpion.xml"/>
+  <include name="monsters/monster1260_GreenBlinkingEvil.xml"/>
 </monsters>
