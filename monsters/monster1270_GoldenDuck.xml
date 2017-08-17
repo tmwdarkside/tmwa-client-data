@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+<monster id="1270" name="Golden Duck" targetCursor="small">
+ <sprite>monsters/goldenduck.xml</sprite>
+</monster>
+</monsters>

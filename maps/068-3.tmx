@@ -79,5 +79,19 @@
     <property name="dest_tile_y" value="109"/>
    </properties>
   </object>
+  <object name="HuntsmanSpider" type="spawn" x="688" y="640" width="3096" height="3048">
+   <properties>
+    <property name="eA_spawn" value="10000"/>
+    <property name="max_beings" value="30"/>
+    <property name="monster_id" value="1083"/>
+   </properties>
+  </object>
+  <object name="CrotcherScorpion" type="spawn" x="688" y="640" width="3096" height="3048">
+   <properties>
+    <property name="eA_spawn" value="10000"/>
+    <property name="max_beings" value="30"/>
+    <property name="monster_id" value="1084"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

@@ -47,6 +47,7 @@
   <include name="monsters/monster1046_TameScorpion.xml"/>
   <include name="monsters/monster1047_Poltergeist.xml"/>
   <include name="monsters/monster1048_Duck.xml"/>
+  <include name="monsters/monster1270_GoldenDuck.xml"/>
   <include name="monsters/monster1049_Bee.xml"/>
   <include name="monsters/monster1050_HouseMaggot.xml"/>
   <include name="monsters/monster1054_Troll.xml"/>
@@ -196,4 +197,8 @@
   <include name="monsters/monster1200_LordScorpiuz.xml"/>
   <include name="monsters/monster1224_GoldenScorpion.xml"/>
   <include name="monsters/monster1260_GreenBlinkingEvil.xml"/>
+  <include name="monsters/monster1261_RedBlinkingEvil.xml"/>
+  <include name="monsters/monster1262_BlueBlinkingEvil.xml"/>
+  <include name="monsters/monster1263_PinkBlinkingEvil.xml"/>
+  <include name="monsters/monster1264_YellowBlinkingEvil.xml"/>
 </monsters>
