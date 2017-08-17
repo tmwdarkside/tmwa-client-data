@@ -139,7 +139,6 @@
   <include name="monsters/monster1141_SmokeDragon.xml"/>
   <include name="monsters/monster1226_DarkDragon.xml"/>
   <include name="monsters/monster1142_ChocolateSlime.xml"/>
-  <include name="monsters/monster1048_Duck.xml"/>
   <include name="monsters/monster1143_GenerousSpiky.xml"/>
   <include name="monsters/monster1144_Assassin.xml"/>
   <include name="monsters/monster1145_TerraniteMask.xml"/>
