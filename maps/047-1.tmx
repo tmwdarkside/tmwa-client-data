@@ -1441,7 +1441,7 @@
 2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 </data>
  </layer>
- <objectgroup name="Objects" visible="0">
+ <objectgroup name="Objects">
   <object name="To Small Cave" type="warp" x="3456" y="5280" width="32" height="32">
    <properties>
     <property name="dest_map" value="047-3"/>
@@ -1716,7 +1716,7 @@
     <property name="dest_tile_y" value="48"/>
    </properties>
   </object>
-  <object name="YetiKing" type="spawn" x="1840" y="2944" width="32" height="32">
+  <object name="YetiKing" type="spawn" x="1984" y="3192" width="1040" height="248">
    <properties>
     <property name="eA_spawn" value="160000"/>
     <property name="max_beings" value="1"/>
