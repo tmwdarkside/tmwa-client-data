@@ -119,13 +119,13 @@
   <object name="BlackSlime" type="spawn" x="3304" y="2576" width="424" height="496">
    <properties>
     <property name="eA_spawn" value="10000"/>
-    <property name="max_beings" value="30"/>
+    <property name="max_beings" value="25"/>
     <property name="monster_id" value="1137"/>
    </properties>
   </object>
   <object name="UndeadWitch" type="spawn" x="2184" y="3376" width="240" height="232">
    <properties>
-    <property name="eA_spawn" value="10000"/>
+    <property name="eA_spawn" value="100000"/>
     <property name="max_beings" value="1"/>
     <property name="monster_id" value="1116"/>
    </properties>
@@ -172,7 +172,7 @@
     <property name="monster_id" value="1260"/>
    </properties>
   </object>
-  <object name="RedBlinkingEvil" type="spawn" x="880" y="1232" width="4512" height="1328">
+  <object name="RedBlinkingEvil" type="spawn" x="864" y="840" width="4560" height="656">
    <properties>
     <property name="eA_spawn" value="10000"/>
     <property name="max_beings" value="10"/>
