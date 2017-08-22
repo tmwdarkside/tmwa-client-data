@@ -22,5 +22,4 @@
   <include name="items/equip-test/item3514_Loc8192.xml"/>
   <include name="items/equip-test/item3515_Loc16384.xml"/>
   <include name="items/equip-test/item3516_Loc32768.xml"/>
-  <include name="items/equip-test/item3517_Loc65536.xml"/>
 </items>
