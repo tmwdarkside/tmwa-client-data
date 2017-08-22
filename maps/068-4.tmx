@@ -64,7 +64,7 @@
   <object name="GoldenDuck" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="180000"/>
-    <property name="max_beings" value="20"/>
+    <property name="max_beings" value="25"/>
     <property name="monster_id" value="1270"/>
    </properties>
   </object>
@@ -92,7 +92,7 @@
   <object name="UndeadTroll" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="180000"/>
-    <property name="max_beings" value="20"/>
+    <property name="max_beings" value="60"/>
     <property name="monster_id" value="1117"/>
    </properties>
   </object>
