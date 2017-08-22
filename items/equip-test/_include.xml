@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+  <include name="items/equip-test/item3501_Loc1.xml"/>
+  <include name="items/equip-test/item3502_Loc2.xml"/>
+  <include name="items/equip-test/item3503_Loc4.xml"/>
+  <include name="items/equip-test/item3504_Loc8.xml"/>
+  <include name="items/equip-test/item3505_Loc16.xml"/>
+  <include name="items/equip-test/item3506_Loc32.xml"/>
+  <include name="items/equip-test/item3507_Loc64.xml"/>
+  <include name="items/equip-test/item3508_Loc128.xml"/>
+  <include name="items/equip-test/item3509_Loc256.xml"/>
+  <include name="items/equip-test/item3510_Loc512.xml"/>
+  <include name="items/equip-test/item3511_Loc1024.xml"/>
+  <include name="items/equip-test/item3512_Loc2048.xml"/>
+  <include name="items/equip-test/item3513_Loc4096.xml"/>
+  <include name="items/equip-test/item3514_Loc8192.xml"/>
+  <include name="items/equip-test/item3515_Loc16384.xml"/>
+  <include name="items/equip-test/item3516_Loc32768.xml"/>
+  <include name="items/equip-test/item3517_Loc65536.xml"/>
+</items>

@@ -6,6 +6,7 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
+  <include name="items/equip-torso/item3400_GoldenMambaArmor.xml"/>
   <include name="items/equip-torso/item523_LeatherShirt.xml"/>
   <include name="items/equip-torso/item546_DesertShirt.xml"/>
   <include name="items/equip-torso/item564_TurtleneckSweater.xml"/>

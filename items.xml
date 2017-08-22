@@ -17,6 +17,7 @@
   <include name="items/equip-shield/_include.xml"/>
   <include name="items/equip-charm/_include.xml"/>
   <include name="items/equip-ring/_include.xml"/>
+  <include name="items/equip-test/_include.xml"/>
 </items>
 
 
