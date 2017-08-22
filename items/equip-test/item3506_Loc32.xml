@@ -6,7 +6,7 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
-  <item id="3506" image="equipment/test/32.png" name="Loc 32" description="Tested item at Loc 32." effect="Nothing" type="equip-1hand" weight="1">
+  <item id="3506" image="equipment/test/32.png" name="Loc 32" description="Tested item at Loc 32. Type Bows and Shields." effect="Nothing" type="equip-1hand" weight="1">
     <sprite gender="unisex">equipment/test/test.xml</sprite>
     <sprite gender="female">equipment/test/test.xml</sprite>
   </item>
