@@ -14,7 +14,7 @@
         type="equip-torso"
         weight="260"
         sellProtected="true">
-        <sprite gender="male">equipment/chest/glodenblack-mamba-armor.xml</sprite>
+        <sprite gender="male">equipment/chest/goldenblack-mamba-armor.xml</sprite>
     <sprite gender="female">equipment/chest/goldenblack-mamba-armor-female.xml</sprite>
     </item>
 </items>
