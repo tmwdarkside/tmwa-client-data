@@ -7,6 +7,15 @@
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
   <include name="items/equip-torso/item3400_GoldenMambaArmor.xml"/>
+  <include name="items/equip-torso/item3401_GoldenBromenalChest.xml"/>
+  <include name="items/equip-torso/item3402_GoldenChainmail.xml"/>
+  <include name="items/equip-torso/item3403_GoldenContributorShirt.xml"/>
+  <include name="items/equip-torso/item3404_GoldenFineDress.xml"/>
+  <include name="items/equip-torso/item3405_GoldenForestArmor.xml"/>
+  <include name="items/equip-torso/item3406_GoldenSilkRobe.xml"/>
+  <include name="items/equip-torso/item3407_GoldenSorcererRobe.xml"/>
+  <include name="items/equip-torso/item3408_GoldenTerraniteArmor.xml"/>
+  <include name="items/equip-torso/item3409_NecromancerRobe.xml"/>
   <include name="items/equip-torso/item523_LeatherShirt.xml"/>
   <include name="items/equip-torso/item546_DesertShirt.xml"/>
   <include name="items/equip-torso/item564_TurtleneckSweater.xml"/>
