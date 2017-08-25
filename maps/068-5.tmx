@@ -119,7 +119,7 @@
   <object name="BlackSlime" type="spawn" x="3304" y="2576" width="424" height="496">
    <properties>
     <property name="eA_spawn" value="10000"/>
-    <property name="max_beings" value="25"/>
+    <property name="max_beings" value="30"/>
     <property name="monster_id" value="1137"/>
    </properties>
   </object>
