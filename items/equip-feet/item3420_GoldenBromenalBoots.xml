@@ -6,8 +6,8 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
-  <item id="3220" image="equipment/head/pipe.png" name="Pipe" description="The Pachua pipe that the Yeti King stole from him." effect="HP +120, Dex +10, Luck +10, Def +45, M. Attack -30." weight="400" type="equip-head" sellProtected="true">
-    <sprite gender="unisex">equipment/head/pipe.xml</sprite>
-    <sprite gender="female">equipment/head/pipe-female.xml</sprite>
+  <item id="3420" image="equipment/feet/goldenbromenalboots.png" name="Golden Bromenal Boots" description="A pair of golden bromenal boots." effect="HP + 50, Luck +3, Def +1, M. Attack -2" type="equip-feet" weight="30">
+    <sprite gender="unisex">equipment/feet/goldenbromenalboots.xml</sprite>
+    <sprite gender="female">equipment/feet/goldenbromenalboots-female.xml</sprite>
   </item>
 </items>

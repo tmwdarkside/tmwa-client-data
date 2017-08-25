@@ -6,6 +6,9 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
+  <include name="items/equip-feet/item3420_GoldenBromenalBoots.xml"/>
+  <include name="items/equip-feet/item3421_GoldenWarlordBoots.xml"/>
+  <include name="items/equip-feet/item3422_NecromancerBoots.xml"/>
   <include name="items/equip-feet/item528_Boots.xml"/>
   <include name="items/equip-feet/item655_FurBoots.xml"/>
   <include name="items/equip-feet/item734_BlackBoots.xml"/>
