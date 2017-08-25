@@ -215,6 +215,7 @@
   <include name="items/equip-head/item3093_FlamingMask.xml"/>
   <include name="items/equip-head/item3096_DragonHelm.xml"/>
   <include name="items/equip-head/item3219_BearEars.xml"/>
+  <include name="items/equip-head/item3220_Pipe.xml"/>
   <include name="items/equip-head/item3221_SamuraiHelm.xml"/>
   <include name="items/equip-head/item3263_PharaohCrown.xml"/>
   <include name="items/equip-head/item3266_DeathMask.xml"/>
