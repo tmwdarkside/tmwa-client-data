@@ -64,7 +64,7 @@
   <object name="GoldenDuck" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="180000"/>
-    <property name="max_beings" value="25"/>
+    <property name="max_beings" value="50"/>
     <property name="monster_id" value="1270"/>
    </properties>
   </object>
@@ -122,6 +122,13 @@
     <property name="eA_spawn" value="180000"/>
     <property name="max_beings" value="20"/>
     <property name="monster_id" value="1060"/>
+   </properties>
+  </object>
+  <object name="DarkSkeleton" type="spawn" x="0" y="0">
+   <properties>
+    <property name="eA_spawn" value="1800000"/>
+    <property name="max_beings" value="3"/>
+    <property name="monster_id" value="1225"/>
    </properties>
   </object>
  </objectgroup>
