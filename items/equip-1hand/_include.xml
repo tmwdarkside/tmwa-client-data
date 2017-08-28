@@ -7,6 +7,11 @@
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
   <include name="items/equip-1hand/item521_Dagger.xml"/>
+  <include name="items/equip-1hand/item3433_ImprovedDagger.xml"/>
+  <include name="items/equip-1hand/item3434_QualityDagger.xml"/>
+  <include name="items/equip-1hand/item3435_AssassinDagger.xml"/>
+  <include name="items/equip-1hand/item3436_PrecisionDagger.xml"/>
+  <include name="items/equip-1hand/item3438_MasterDagger.xml"/>
   <include name="items/equip-1hand/item522_SharpKnife.xml"/>
   <include name="items/equip-1hand/item536_ShortSword.xml"/>
   <include name="items/equip-1hand/item549_Axe.xml"/>
