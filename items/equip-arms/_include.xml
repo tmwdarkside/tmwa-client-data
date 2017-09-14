@@ -6,6 +6,8 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
+  <include name="items/equip-arms/item3440_NecromancerGloves.xml"/>
+  <include name="items/equip-arms/item3441_GoldenBromenalGloves.xml"/>
   <include name="items/equip-arms/item531_MinerGloves.xml"/>
   <include name="items/equip-arms/item532_LeatherGloves.xml"/>
   <include name="items/equip-arms/item563_WinterGloves.xml"/>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+  <item id="3477" image="equipment/head/goldenbucket.png" name="Golden Bucket" description="A golden Bucket for your head." weight="20" effect="HP +150, Dex +10, Luck +10, Def +45, M. Attack -4." type="equip-head">
+    <sprite gender="unisex">equipment/head/goldenbucket.xml</sprite>
+    <sprite gender="female">equipment/head/goldenbucket-female.xml</sprite>
+    <replace sprite="hair"/>
+  </item>
+</items>
