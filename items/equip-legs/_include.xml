@@ -6,6 +6,9 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
+  <include name="items/equip-legs/item3485_GoldenBromenalLegs.xml"/>
+  <include name="items/equip-legs/item3486_GoldenTerraniteLegs.xml"/>
+  <include name="items/equip-legs/item3487_NecromancerPants.xml"/>
   <include name="items/equip-legs/item586_CottonShorts.xml"/>
   <include name="items/equip-legs/item610_JeansShorts.xml"/>
   <include name="items/equip-legs/item632_CottonSkirt.xml"/>
