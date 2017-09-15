@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="615">
+    <sprite>model/base.xml|#53202b,7f4f45,9e6a43,d09459,fcd3a1,fefffc;#2f312f,727471,a4a6a3,dad5f5;#3a3a3a,d5d5d5</sprite>
+    <sprite>hairstyles/hairstyle02.xml|#53202b,7f4f45,9e6a43,d09459,fcd3a1,fefffc;#2f312f,727471,a4a6a3,dad5f5;#5b280a,994312,c55818,e46c28</sprite>
+    <sprite>equipment/head/goldenbull.xml</sprite>
+    <sprite>equipment/chest/goldenforestbow.xml</sprite>
+    <sprite>equipment/legs/goldenbromenallegs.xml</sprite>
+    <sprite>equipment/feet/goldenbromenalboots.xml</sprite>
+  </npc>
+</npcs>
