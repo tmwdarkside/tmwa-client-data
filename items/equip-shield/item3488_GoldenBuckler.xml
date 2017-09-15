@@ -6,10 +6,13 @@
     <its:translateRule selector="//item/@effect" translate="yes"/>
     <its:translateRule selector="//*" translate="no"/>
   </its:rules>
-  <include name="items/equip-shield/item3488_GoldenBuckler.xml"/>
-  <include name="items/equip-shield/item601_SteelShield.xml"/>
-  <include name="items/equip-shield/item602_WoodenShield.xml"/>
-  <include name="items/equip-shield/item603_LeatherShield.xml"/>
-  <include name="items/equip-shield/item8005_Buckler.xml"/>
-  <include name="items/equip-shield/item8061_SaviorShield.xml"/>
+    <item id="3488"
+        image="equipment/shield/goldenbuckler.png"
+        name="Golden Buckler"
+        description="A golden shield that can be used effectively for defense."
+        effect="HP +130, Def +60, M. Attack -200."
+        type="equip-shield"
+        weight="1000">
+        <sprite>equipment/armor/shield-goldenbuckler.xml</sprite>
+    </item>
 </items>

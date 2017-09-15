@@ -13,6 +13,7 @@
 <!--   <include name="items/equip-2hand/item597_HeavyPike.xml"/> -->
   <include name="items/equip-2hand/item623_Scythe.xml"/>
   <include name="items/equip-2hand/item758_WoodenStaff.xml"/>
+  <include name="items/equip-2hand/item3489_GoldenBansheeBow.xml"/>
   <include name="items/equip-2hand/item878_BansheeBow.xml"/>
   <include name="items/equip-2hand/item903_SlingShot.xml"/>
   <include name="items/equip-2hand/item906_KidBook.xml"/>
