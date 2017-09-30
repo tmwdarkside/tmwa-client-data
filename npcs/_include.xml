@@ -244,6 +244,7 @@
   <include name="npcs/npc613.xml"/>
   <include name="npcs/npc614.xml"/>
   <include name="npcs/npc615.xml"/>
+  <include name="npcs/npc616.xml"/>
   <include name="npcs/npc700.xml"/>
   <include name="npcs/npc800.xml"/>
   <include name="npcs/npc801.xml"/>
